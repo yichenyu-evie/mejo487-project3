@@ -1,0 +1,122 @@
+﻿ [
+        {
+            "Jobtitle": "Health care and social assistance",
+            "Weklypay F": "773",
+            "Weklypay M": "1070",
+            "Gap": "297"
+        },
+        {
+            "Jobtitle": "Retail trade",
+            "Weklypay F": "606",
+            "Weklypay M": "746",
+            "Gap": "140"
+        },
+        {
+            "Jobtitle": "Educational Services",
+            "Weklypay F": "945",
+            "Weklypay M": "1128",
+            "Gap": "183"
+        },
+        {
+            "Jobtitle": "Durable goods manufacturing",
+            "Weklypay F": "789",
+            "Weklypay M": "1005",
+            "Gap": "216"
+        },
+        {
+            "Jobtitle": "Professional and technical services",
+            "Weklypay F": "1104",
+            "Weklypay M": "1550",
+            "Gap": "446"
+        },
+        {
+            "Jobtitle": "Construction",
+            "Weklypay F": "862",
+            "Weklypay M": "870",
+            "Gap": "8"
+        },
+        {
+            "Jobtitle": "Public administration",
+            "Weklypay F": "942",
+            "Weklypay M": "1155",
+            "Gap": "213"
+        },
+        {
+            "Jobtitle": "Fianace and insurance",
+            "Weklypay F": "923",
+            "Weklypay M": "1500",
+            "Gap": "577"
+        },
+        {
+            "Jobtitle": "Accommodation and food services",
+            "Weklypay F": "510",
+            "Weklypay M": "598",
+            "Gap": "88"
+        },
+        {
+            "Jobtitle": "Transportation and warehousing",
+            "Weklypay F": "737",
+            "Weklypay M": "897",
+            "Gap": "160"
+        },
+        {
+            "Jobtitle": "Nondurable goods manufacturing",
+            "Weklypay F": "701",
+            "Weklypay M": "952",
+            "Gap": "251"
+        },
+        {
+            "Jobtitle": "Mangement, administrative, and waste services",
+            "Weklypay F": "628",
+            "Weklypay M": "694",
+            "Gap": "66"
+        },
+        {
+            "Jobtitle": "other services, except private households",
+            "Weklypay F": "674",
+            "Weklypay M": "847",
+            "Gap": "173"
+        },
+        {
+            "Jobtitle": "Wholesale trade",
+            "Weklypay F": "833",
+            "Weklypay M": "960",
+            "Gap": "127"
+        },
+        {
+            "Jobtitle": "Information",
+            "Weklypay F": "993",
+            "Weklypay M": "1270",
+            "Gap": "277"
+        },
+        {
+            "Jobtitle": "Real estate and rental and leasing",
+            "Weklypay F": "846",
+            "Weklypay M": "944",
+            "Gap": "98"
+        },
+        {
+            "Jobtitle": "Arts, entertainment, and recreation",
+            "Weklypay F": "663",
+            "Weklypay M": "790",
+            "Gap": "127"
+        },
+        {
+            "Jobtitle": "Utilities",
+            "Weklypay F": "1086",
+            "Weklypay M": "1265",
+            "Gap": "179"
+        },
+        {
+            "Jobtitle": "Agriculture and realted industries",
+            "Weklypay F": "540",
+            "Weklypay M": "662",
+            "Gap": "122"
+        },
+        {
+            "Jobtitle": "Mining, quarrying, and oil and gas extration",
+            "Weklypay F": "1174",
+            "Weklypay M": "1323",
+            "Gap": "149"
+        }
+    ]

@@ -1,0 +1,210 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css" integrity="sha384-TX8t27EcRE3e/ihU7zmQxVncDAy5uIKz4rEkgIXeMed4M0jlfIDPvg6uqKI2xXr2" crossorigin="anonymous">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto+Condensed&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@500&family=Roboto+Condensed:wght@400;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.22/css/jquery.dataTables.min.css">
+     
+  
+    <link rel="stylesheet" href="css/style.css">
+
+    <title>Mejo 487 Project 3</title>
+  </head>
+  <body>
+    <div class="container-fluid topheader">
+        <div class="row try">
+        <div class="top-title col"><h2>The Gender Pay Gap In The U.S.</h2><span>By <a class="name" href="http://www.evieyu.com/portfolio/">Yichen Yu</a></span></div>
+        </div>
+    </div>
+      <br>
+      <div class="container sliding">
+   <div id="demo" class="carousel slide" data-ride="carousel">
+  <ul class="carousel-indicators">
+    <li data-target="#demo" data-slide-to="0" class="active"></li>
+    <li data-target="#demo" data-slide-to="1"></li>
+    <li data-target="#demo" data-slide-to="2"></li>
+    <li data-target="#demo" data-slide-to="3"></li>
+  </ul>
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+      <img src="img/7.jpg" alt="pay-gap-by-industries">
+      <div class="carousel-caption">
+          <h3><a class="jump" href="#industry">Pay Gap By Industries</a></h3>
+        <p>"I was told men should make more"--Jill Abramson, former executive editor at the New York Times</p>
+      </div>   
+    </div>
+    <div class="carousel-item">
+      <img src="img/2.png" alt="pay-gap-by-time">
+      <div class="carousel-caption">
+        <h3><a class="jump" href="#time">Pay Gap By Time</a></h3>
+        <p>"I am told that we are now being paid at the same rate, but there is no transparency"--Carrie Gracie, former BBC editor</p>
+      </div>   
+    </div>
+    <div class="carousel-item">
+      <img src="img/3.jpg" alt="pay-gap-by-race">
+      <div class="carousel-caption">
+        <h3><a class="jump" href="#race">Pay Gap By Race</a></h3>
+        <p>“Unequal pay hurts women. It hurts their families. And it hurts us all.”--Lilly Ledbetter, who led to the signing of the Fair Pay Act of 2009</p>
+      </div>   
+    </div>
+    <div class="carousel-item">
+      <img src="img/1.jpg" alt="pay-gap-by-state">
+      <div class="carousel-caption">
+        <h3><a class="jump" href="#state">Pay Gap By State</a></h3>
+        <p>“Women’s compensation does often suffer when they return to work after having children.”--Jessica Bennett, The Times’s gender editor</p>
+      </div>   
+    </div>
+  </div>
+  <a class="carousel-control-prev" href="#demo" data-slide="prev">
+    <span class="carousel-control-prev-icon"></span>
+  </a>
+  <a class="carousel-control-next" href="#demo" data-slide="next">
+    <span class="carousel-control-next-icon"></span>
+  </a>
+</div>
+          </div>
+      <br>
+      <br>
+<!--      //graph-->
+      <a name="industry"></a>
+      <div class="container">
+      <div class="col subtit">
+        <h3>Pay Gap by Industries</h3>
+      </div>
+      <div class="container graph-cont">
+        <div class="row">
+            <div class="col" id="larIndus"></div>
+            
+            <div><p>The statitics are selected from the 20 most common occupations for women in the industry in the United States in 2018. For example, in 2018, female in the information industries earned on average 993 U.S. dollars per week, while their male counterparts earned 1270 U.S. dollars and the wage gap between genders is 277 U.S. dollars. These industries above are ranked descending by the gap of median weekly earnings between female and male, and only top ten of them are selected to display. The gender pay gap of fianance and insurance industry is the largest, which is 577 U.S. dollars. Followed by is professional and technical servives, which has a 446 U.S. dollars gap of media weekly pay and so on.</p></div>
+        </div>
+      </div>
+     </div>
+      <br>
+      
+          <a name="time"></a>
+      <div class="container">
+      <div class="col subtit">
+        <h3>Pay Gap by Time</h3>
+      </div>
+      <div class="container graph-cont">
+        <div class="row">
+            <div class="col" id="earningratio"></div>
+            
+            <div><p>This statistic shows the female to male earnings ratio in the U.S. from 2000 to 2019, based on earnings in 2019 CPI-U-RS adjusted dollars. The ratio in 2019 was at 82.3 percent, which indicates that a regular female worker earns about 82 percent of the amount a male employee in the same position would receive. Though the ratio shows a trend of growing, it grows in a very slow pace. After almost 20 years from 2000, the ratio grows less than 10%. It's unreasonable that a woman who is doing the same job as a man, with the exact same qualifications as a man is still paid two percent less for no attributable reason.</p></div>
+        </div>
+      </div>
+    </div>
+      <br>
+      
+    <a name="race"></a>
+    <div class="container">
+     <div class="col subtit">
+        <h3>Pay Gap by Race</h3>
+      </div>
+      <div class="container graph-cont">
+        <div class="row">
+            <div class="col" id="gapbyrace"></div>
+            
+            <div><p>This statistic shows the median weekly earnings of full-time wage and salary workers in the United States by gender and ethnicity in 2019. The graph sorts in ascending order that the gender pay gap for Hispanic or Latino is the smallest while the gender pay gap for black or African American is the largest. In black or African American, male earns around 332 U.S. dollars  more than female weekly. However, when counted both race and gender as factors, the largest pay gap is between Asian male and Hispanic or Latino female.  </p></div>
+        </div>
+      </div>
+    </div>
+      <br>
+     
+    <a name="state"></a>
+    <div class="container">
+      <div class="col subtit">
+        <h3>Pay Gap by State</h3>
+      </div>
+      <div class="container graph-cont">
+        <div class="row">
+            <div class="col" id="gapbystate"></div>
+            
+            <div><p>The statistic shows the female to male earnings ratio in the U.S. in 2019, based on the median income of full-time workers in U.S. dollars. For example, in 2019, Vermont had the highest earnings ratio for women as female workers earned 91.03 percent of their male counterparts on average. The pay gap varies from state to state, too – often because of those individual states' economies as well as the laws those states have in place to discourage and punish wage discrimination.  </p></div>
+        </div>
+      </div>
+    </div>
+      <br>
+        
+    
+  <div class="container">
+    <h3 class="text-center">Big Data: 564 Occupations Median Weekly Wage</h3>
+  
+  <div class="bigdatatable col">
+    <table id="bigTable" class="display">
+        <thead>
+            <tr>
+                <th>Occupation</th>
+                <th>All Workers</th>
+                <th>All Workers Wage</th>
+                <th>Male Workers</th>
+                <th>Male Workers Wage</th>
+                <th>Female Workers</th>
+                <th>Female Workers Wage</th>
+            </tr>
+        </thead>
+        <tfoot>
+            <tr>
+                <th>Occupation</th>
+                <th>All Workers</th>
+                <th>All Workers Wage</th>
+                <th>Male Workers</th>
+                <th>Male Workers Wage</th>
+                <th>Female Workers</th>
+                <th>Female Workers Wage</th>
+            </tr>
+        </tfoot>
+    </table>
+  </div>
+</div>
+      
+<footer>
+   <div class="container-fluid footercon">
+        <div class="container credits">
+           <h5>The website is only for education purpose.</h5>
+           <h5>Credits:</h5>
+            <p class="credittext"><a href="https://docs.google.com/document/d/1JlegIrh5UNZzWNibgMk-NDl3MbEEkjG_VVZEEZoVzro/edit">Data Resources</a>, <a href="https://docs.google.com/document/d/1hjOoDge1Zf61j8dftnxp4Nxjg1tTeeiAcLWArMkAR0I/edit">Text Resources</a><br>The graphs are generated by <a href="https://www.highcharts.com/">Highcharts</a> and <a href="https://datatables.net/">DataTables</a></p>
+        
+        </div>
+    
+    </div> 
+
+      
+</footer>
+  
+
+
+
+      
+    
+      
+<!--  template-->
+    <script src="https://code.jquery.com/jquery-3.5.1.min.js" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ho+j7jyWK8fNQe+A12Hb8AhRq26LrZ/JpcUGGOn+Y7RsweNrtN/tE3MoK7ZeZDyx" crossorigin="anonymous"></script>
+    <script type="text/javascript" charset="utf8" src="https://cdn.datatables.net/1.10.22/js/jquery.dataTables.min.js"></script>
+<!--     silder-->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+<!--    highchart  -->
+    <script src="https://code.highcharts.com/maps/highmaps.js"></script>
+    <script src="https://code.highcharts.com/modules/tilemap.js"></script>
+    <script src="https://code.highcharts.com/modules/exporting.js"></script>
+    <script src="https://code.highcharts.com/modules/export-data.js"></script>
+    <script src="https://code.highcharts.com/modules/data.js"></script>
+    <script src="https://code.highcharts.com/modules/drilldown.js"></script>
+    <script src="https://code.highcharts.com/highcharts.js"></script>
+    <script src="https://code.highcharts.com/maps/modules/offline-exporting.js"></script>
+    <script src="https://code.highcharts.com/mapdata/countries/us/us-all.js"></script>
+    <script src="https://code.highcharts.com/modules/accessibility.js"></script>
+      
+<!--customize-->
+    <script src="js/main.js"></script>
+
+  </body>
+</html>

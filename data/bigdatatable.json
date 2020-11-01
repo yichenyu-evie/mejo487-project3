@@ -1,0 +1,5114 @@
+﻿[
+    {
+        "Occupation": "Management, professional, and related occupations",
+        "Number of workers": "50,119",
+        "Median weekly earnings": "1,309",
+        "Number of male workers": "24,260",
+        "Male median weekly earnings": "1,539",
+        "Number of female workers": "25,859",
+        "Female median weekly earnings": "1,135"
+    },
+    {
+        "Occupation": "Management, business, and financial operations occupations",
+        "Number of workers": "20,696",
+        "Median weekly earnings": "1,415",
+        "Number of male workers": "11,111",
+        "Male median weekly earnings": "1,598",
+        "Number of female workers": "9,585",
+        "Female median weekly earnings": "1,221"
+    },
+    {
+        "Occupation": "Management occupations",
+        "Number of workers": "13,948",
+        "Median weekly earnings": "1,478",
+        "Number of male workers": "8,002",
+        "Male median weekly earnings": "1,659",
+        "Number of female workers": "5,946",
+        "Female median weekly earnings": "1,266"
+    },
+    {
+        "Occupation": "Chief executives",
+        "Number of workers": "1,113",
+        "Median weekly earnings": "2,380",
+        "Number of male workers": "812",
+        "Male median weekly earnings": "2,509",
+        "Number of female workers": "302",
+        "Female median weekly earnings": "2,019"
+    },
+    {
+        "Occupation": "General and operations managers",
+        "Number of workers": "990",
+        "Median weekly earnings": "1,384",
+        "Number of male workers": "678",
+        "Male median weekly earnings": "1,476",
+        "Number of female workers": "312",
+        "Female median weekly earnings": "1,153"
+    },
+    {
+        "Occupation": "Legislators",
+        "Number of workers": "14",
+        "Median weekly earnings": "N/A",
+        "Number of male workers": "9",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "5",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Advertising and promotions managers",
+        "Number of workers": "45",
+        "Median weekly earnings": "N/A",
+        "Number of male workers": "19",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "27",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Marketing and sales managers",
+        "Number of workers": "1,109",
+        "Median weekly earnings": "1,600",
+        "Number of male workers": "591",
+        "Male median weekly earnings": "1,895",
+        "Number of female workers": "518",
+        "Female median weekly earnings": "1,393"
+    },
+    {
+        "Occupation": "Public relations and fundraising managers",
+        "Number of workers": "72",
+        "Median weekly earnings": "1,416",
+        "Number of male workers": "22",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "50",
+        "Female median weekly earnings": "1,399"
+    },
+    {
+        "Occupation": "Administrative services managers",
+        "Number of workers": "154",
+        "Median weekly earnings": "1,235",
+        "Number of male workers": "93",
+        "Male median weekly earnings": "1,277",
+        "Number of female workers": "61",
+        "Female median weekly earnings": "1,084"
+    },
+    {
+        "Occupation": "Computer and information systems managers",
+        "Number of workers": "629",
+        "Median weekly earnings": "1,984",
+        "Number of male workers": "439",
+        "Male median weekly earnings": "2,019",
+        "Number of female workers": "190",
+        "Female median weekly earnings": "1,892"
+    },
+    {
+        "Occupation": "Financial managers",
+        "Number of workers": "1,142",
+        "Median weekly earnings": "1,447",
+        "Number of male workers": "523",
+        "Male median weekly earnings": "1,897",
+        "Number of female workers": "619",
+        "Female median weekly earnings": "1,207"
+    },
+    {
+        "Occupation": "Compensation and benefits managers",
+        "Number of workers": "23",
+        "Median weekly earnings": "N/A",
+        "Number of male workers": "7",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "15",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Human resources managers",
+        "Number of workers": "299",
+        "Median weekly earnings": "1,592",
+        "Number of male workers": "69",
+        "Male median weekly earnings": "1,829",
+        "Number of female workers": "230",
+        "Female median weekly earnings": "1,538"
+    },
+    {
+        "Occupation": "Training and development managers",
+        "Number of workers": "44",
+        "Median weekly earnings": "N/A",
+        "Number of male workers": "19",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "25",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Industrial production managers",
+        "Number of workers": "270",
+        "Median weekly earnings": "1,472",
+        "Number of male workers": "208",
+        "Male median weekly earnings": "1,469",
+        "Number of female workers": "62",
+        "Female median weekly earnings": "1,497"
+    },
+    {
+        "Occupation": "Purchasing managers",
+        "Number of workers": "214",
+        "Median weekly earnings": "1,539",
+        "Number of male workers": "129",
+        "Male median weekly earnings": "1,657",
+        "Number of female workers": "84",
+        "Female median weekly earnings": "1,390"
+    },
+    {
+        "Occupation": "Transportation, storage, and distribution managers",
+        "Number of workers": "261",
+        "Median weekly earnings": "1,160",
+        "Number of male workers": "213",
+        "Male median weekly earnings": "1,238",
+        "Number of female workers": "49",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Farmers, ranchers, and other agricultural managers",
+        "Number of workers": "114",
+        "Median weekly earnings": "987",
+        "Number of male workers": "94",
+        "Male median weekly earnings": "1,162",
+        "Number of female workers": "20",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Construction managers",
+        "Number of workers": "610",
+        "Median weekly earnings": "1,468",
+        "Number of male workers": "539",
+        "Male median weekly earnings": "1,511",
+        "Number of female workers": "71",
+        "Female median weekly earnings": "1,210"
+    },
+    {
+        "Occupation": "Education administrators",
+        "Number of workers": "811",
+        "Median weekly earnings": "1,371",
+        "Number of male workers": "276",
+        "Male median weekly earnings": "1,467",
+        "Number of female workers": "536",
+        "Female median weekly earnings": "1,335"
+    },
+    {
+        "Occupation": "Architectural and engineering managers",
+        "Number of workers": "148",
+        "Median weekly earnings": "2,471",
+        "Number of male workers": "128",
+        "Male median weekly earnings": "2,457",
+        "Number of female workers": "20",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Food service managers",
+        "Number of workers": "785",
+        "Median weekly earnings": "863",
+        "Number of male workers": "420",
+        "Male median weekly earnings": "964",
+        "Number of female workers": "365",
+        "Female median weekly earnings": "719"
+    },
+    {
+        "Occupation": "Funeral service managers",
+        "Number of workers": "3",
+        "Median weekly earnings": "N/A",
+        "Number of male workers": "2",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "1",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Gaming managers",
+        "Number of workers": "18",
+        "Median weekly earnings": "N/A",
+        "Number of male workers": "10",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "9",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Lodging managers",
+        "Number of workers": "116",
+        "Median weekly earnings": "975",
+        "Number of male workers": "61",
+        "Male median weekly earnings": "1,096",
+        "Number of female workers": "55",
+        "Female median weekly earnings": "894"
+    },
+    {
+        "Occupation": "Medical and health services managers",
+        "Number of workers": "578",
+        "Median weekly earnings": "1,478",
+        "Number of male workers": "169",
+        "Male median weekly earnings": "1,828",
+        "Number of female workers": "409",
+        "Female median weekly earnings": "1,362"
+    },
+    {
+        "Occupation": "Natural sciences managers",
+        "Number of workers": "12",
+        "Median weekly earnings": "N/A",
+        "Number of male workers": "9",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "3",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Postmasters and mail superintendents",
+        "Number of workers": "28",
+        "Median weekly earnings": "N/A",
+        "Number of male workers": "13",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "14",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Property, real estate, and community association managers",
+        "Number of workers": "438",
+        "Median weekly earnings": "954",
+        "Number of male workers": "214",
+        "Male median weekly earnings": "1,168",
+        "Number of female workers": "224",
+        "Female median weekly earnings": "849"
+    },
+    {
+        "Occupation": "Social and community service managers",
+        "Number of workers": "403",
+        "Median weekly earnings": "1,243",
+        "Number of male workers": "143",
+        "Male median weekly earnings": "1,452",
+        "Number of female workers": "260",
+        "Female median weekly earnings": "1,156"
+    },
+    {
+        "Occupation": "Emergency management directors",
+        "Number of workers": "9",
+        "Median weekly earnings": "N/A",
+        "Number of male workers": "6",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "3",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Managers, all other",
+        "Number of workers": "3,497",
+        "Median weekly earnings": "1,533",
+        "Number of male workers": "2,088",
+        "Male median weekly earnings": "1,725",
+        "Number of female workers": "1,409",
+        "Female median weekly earnings": "1,317"
+    },
+    {
+        "Occupation": "Business and financial operations occupations",
+        "Number of workers": "6,748",
+        "Median weekly earnings": "1,285",
+        "Number of male workers": "3,109",
+        "Male median weekly earnings": "1,468",
+        "Number of female workers": "3,639",
+        "Female median weekly earnings": "1,148"
+    },
+    {
+        "Occupation": "Agents and business managers of artists, performers, and athletes",
+        "Number of workers": "28",
+        "Median weekly earnings": "N/A",
+        "Number of male workers": "13",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "15",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Buyers and purchasing agents, farm products",
+        "Number of workers": "7",
+        "Median weekly earnings": "N/A",
+        "Number of male workers": "6",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "1",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Wholesale and retail buyers, except farm products",
+        "Number of workers": "162",
+        "Median weekly earnings": "979",
+        "Number of male workers": "87",
+        "Male median weekly earnings": "982",
+        "Number of female workers": "76",
+        "Female median weekly earnings": "977"
+    },
+    {
+        "Occupation": "Purchasing agents, except wholesale, retail, and farm products",
+        "Number of workers": "248",
+        "Median weekly earnings": "1,170",
+        "Number of male workers": "134",
+        "Male median weekly earnings": "1,202",
+        "Number of female workers": "113",
+        "Female median weekly earnings": "1,081"
+    },
+    {
+        "Occupation": "Claims adjusters, appraisers, examiners, and investigators",
+        "Number of workers": "299",
+        "Median weekly earnings": "1,103",
+        "Number of male workers": "104",
+        "Male median weekly earnings": "1,277",
+        "Number of female workers": "195",
+        "Female median weekly earnings": "972"
+    },
+    {
+        "Occupation": "Compliance officers",
+        "Number of workers": "271",
+        "Median weekly earnings": "1,346",
+        "Number of male workers": "105",
+        "Male median weekly earnings": "1,561",
+        "Number of female workers": "165",
+        "Female median weekly earnings": "1,264"
+    },
+    {
+        "Occupation": "Cost estimators",
+        "Number of workers": "113",
+        "Median weekly earnings": "1,254",
+        "Number of male workers": "100",
+        "Male median weekly earnings": "1,264",
+        "Number of female workers": "13",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Human resources workers",
+        "Number of workers": "680",
+        "Median weekly earnings": "1,203",
+        "Number of male workers": "186",
+        "Male median weekly earnings": "1,325",
+        "Number of female workers": "494",
+        "Female median weekly earnings": "1,149"
+    },
+    {
+        "Occupation": "Compensation, benefits, and job analysis specialists",
+        "Number of workers": "46",
+        "Median weekly earnings": "N/A",
+        "Number of male workers": "14",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "32",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Training and development specialists",
+        "Number of workers": "120",
+        "Median weekly earnings": "1,127",
+        "Number of male workers": "51",
+        "Male median weekly earnings": "1,249",
+        "Number of female workers": "68",
+        "Female median weekly earnings": "968"
+    },
+    {
+        "Occupation": "Logisticians",
+        "Number of workers": "152",
+        "Median weekly earnings": "1,093",
+        "Number of male workers": "107",
+        "Male median weekly earnings": "1,149",
+        "Number of female workers": "45",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Management analysts",
+        "Number of workers": "692",
+        "Median weekly earnings": "1,622",
+        "Number of male workers": "389",
+        "Male median weekly earnings": "1,870",
+        "Number of female workers": "303",
+        "Female median weekly earnings": "1,517"
+    },
+    {
+        "Occupation": "Meeting, convention, and event planners",
+        "Number of workers": "116",
+        "Median weekly earnings": "1,023",
+        "Number of male workers": "28",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "89",
+        "Female median weekly earnings": "1,018"
+    },
+    {
+        "Occupation": "Fundraisers",
+        "Number of workers": "85",
+        "Median weekly earnings": "1,330",
+        "Number of male workers": "33",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "52",
+        "Female median weekly earnings": "1,229"
+    },
+    {
+        "Occupation": "Market research analysts and marketing specialists",
+        "Number of workers": "281",
+        "Median weekly earnings": "1,363",
+        "Number of male workers": "130",
+        "Male median weekly earnings": "1,688",
+        "Number of female workers": "152",
+        "Female median weekly earnings": "1,228"
+    },
+    {
+        "Occupation": "Business operations specialists, all other",
+        "Number of workers": "248",
+        "Median weekly earnings": "1,283",
+        "Number of male workers": "100",
+        "Male median weekly earnings": "1,540",
+        "Number of female workers": "148",
+        "Female median weekly earnings": "1,193"
+    },
+    {
+        "Occupation": "Accountants and auditors",
+        "Number of workers": "1,683",
+        "Median weekly earnings": "1,221",
+        "Number of male workers": "670",
+        "Male median weekly earnings": "1,419",
+        "Number of female workers": "1,013",
+        "Female median weekly earnings": "1,141"
+    },
+    {
+        "Occupation": "Appraisers and assessors of real estate",
+        "Number of workers": "46",
+        "Median weekly earnings": "N/A",
+        "Number of male workers": "24",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "23",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Budget analysts",
+        "Number of workers": "40",
+        "Median weekly earnings": "N/A",
+        "Number of male workers": "19",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "21",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Credit analysts",
+        "Number of workers": "26",
+        "Median weekly earnings": "N/A",
+        "Number of male workers": "9",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "18",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Financial analysts",
+        "Number of workers": "307",
+        "Median weekly earnings": "1,613",
+        "Number of male workers": "203",
+        "Male median weekly earnings": "1,763",
+        "Number of female workers": "104",
+        "Female median weekly earnings": "1,386"
+    },
+    {
+        "Occupation": "Personal financial advisors",
+        "Number of workers": "448",
+        "Median weekly earnings": "1,618",
+        "Number of male workers": "296",
+        "Male median weekly earnings": "1,905",
+        "Number of female workers": "152",
+        "Female median weekly earnings": "1,232"
+    },
+    {
+        "Occupation": "Insurance underwriters",
+        "Number of workers": "116",
+        "Median weekly earnings": "1,169",
+        "Number of male workers": "57",
+        "Male median weekly earnings": "1,338",
+        "Number of female workers": "59",
+        "Female median weekly earnings": "1,142"
+    },
+    {
+        "Occupation": "Financial examiners",
+        "Number of workers": "20",
+        "Median weekly earnings": "N/A",
+        "Number of male workers": "10",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "10",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Credit counselors and loan officers",
+        "Number of workers": "366",
+        "Median weekly earnings": "1,235",
+        "Number of male workers": "173",
+        "Male median weekly earnings": "1,542",
+        "Number of female workers": "193",
+        "Female median weekly earnings": "1,020"
+    },
+    {
+        "Occupation": "Tax examiners and collectors, and revenue agents",
+        "Number of workers": "49",
+        "Median weekly earnings": "N/A",
+        "Number of male workers": "18",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "31",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Tax preparers",
+        "Number of workers": "46",
+        "Median weekly earnings": "N/A",
+        "Number of male workers": "20",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "26",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Financial specialists, all other",
+        "Number of workers": "50",
+        "Median weekly earnings": "1,209",
+        "Number of male workers": "24",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "26",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Professional and related occupations",
+        "Number of workers": "29,423",
+        "Median weekly earnings": "1,237",
+        "Number of male workers": "13,149",
+        "Male median weekly earnings": "1,493",
+        "Number of female workers": "16,274",
+        "Female median weekly earnings": "1,085"
+    },
+    {
+        "Occupation": "Computer and mathematical occupations",
+        "Number of workers": "4,947",
+        "Median weekly earnings": "1,579",
+        "Number of male workers": "3,668",
+        "Male median weekly earnings": "1,658",
+        "Number of female workers": "1,279",
+        "Female median weekly earnings": "1,353"
+    },
+    {
+        "Occupation": "Computer and information research scientists",
+        "Number of workers": "20",
+        "Median weekly earnings": "N/A",
+        "Number of male workers": "13",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "6",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Computer systems analysts",
+        "Number of workers": "623",
+        "Median weekly earnings": "1,461",
+        "Number of male workers": "368",
+        "Male median weekly earnings": "1,580",
+        "Number of female workers": "255",
+        "Female median weekly earnings": "1,289"
+    },
+    {
+        "Occupation": "Information security analysts",
+        "Number of workers": "128",
+        "Median weekly earnings": "1,758",
+        "Number of male workers": "103",
+        "Male median weekly earnings": "1,875",
+        "Number of female workers": "25",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Computer programmers",
+        "Number of workers": "425",
+        "Median weekly earnings": "1,586",
+        "Number of male workers": "343",
+        "Male median weekly earnings": "1,613",
+        "Number of female workers": "82",
+        "Female median weekly earnings": "1,463"
+    },
+    {
+        "Occupation": "Software developers, applications and systems software",
+        "Number of workers": "1,714",
+        "Median weekly earnings": "1,894",
+        "Number of male workers": "1,379",
+        "Male median weekly earnings": "1,920",
+        "Number of female workers": "335",
+        "Female median weekly earnings": "1,718"
+    },
+    {
+        "Occupation": "Web developers",
+        "Number of workers": "144",
+        "Median weekly earnings": "1,470",
+        "Number of male workers": "88",
+        "Male median weekly earnings": "1,633",
+        "Number of female workers": "56",
+        "Female median weekly earnings": "1,150"
+    },
+    {
+        "Occupation": "Computer support specialists",
+        "Number of workers": "486",
+        "Median weekly earnings": "1,192",
+        "Number of male workers": "365",
+        "Male median weekly earnings": "1,223",
+        "Number of female workers": "121",
+        "Female median weekly earnings": "1,103"
+    },
+    {
+        "Occupation": "Database administrators",
+        "Number of workers": "96",
+        "Median weekly earnings": "1,642",
+        "Number of male workers": "67",
+        "Male median weekly earnings": "1,752",
+        "Number of female workers": "29",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Network and computer systems administrators",
+        "Number of workers": "194",
+        "Median weekly earnings": "1,447",
+        "Number of male workers": "144",
+        "Male median weekly earnings": "1,541",
+        "Number of female workers": "50",
+        "Female median weekly earnings": "1,233"
+    },
+    {
+        "Occupation": "Computer network architects",
+        "Number of workers": "104",
+        "Median weekly earnings": "1,883",
+        "Number of male workers": "95",
+        "Male median weekly earnings": "1,901",
+        "Number of female workers": "10",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Computer occupations, all other",
+        "Number of workers": "721",
+        "Median weekly earnings": "1,277",
+        "Number of male workers": "542",
+        "Male median weekly earnings": "1,365",
+        "Number of female workers": "179",
+        "Female median weekly earnings": "1,148"
+    },
+    {
+        "Occupation": "Actuaries",
+        "Number of workers": "28",
+        "Median weekly earnings": "N/A",
+        "Number of male workers": "21",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "7",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Mathematicians",
+        "Number of workers": "2",
+        "Median weekly earnings": "N/A",
+        "Number of male workers": "1",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "1",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Operations research analysts",
+        "Number of workers": "153",
+        "Median weekly earnings": "1,512",
+        "Number of male workers": "86",
+        "Male median weekly earnings": "1,753",
+        "Number of female workers": "67",
+        "Female median weekly earnings": "1,188"
+    },
+    {
+        "Occupation": "Statisticians",
+        "Number of workers": "90",
+        "Median weekly earnings": "1,456",
+        "Number of male workers": "44",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "46",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Miscellaneous mathematical science occupations",
+        "Number of workers": "18",
+        "Median weekly earnings": "N/A",
+        "Number of male workers": "10",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "8",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Architecture and engineering occupations",
+        "Number of workers": "3,011",
+        "Median weekly earnings": "1,550",
+        "Number of male workers": "2,559",
+        "Male median weekly earnings": "1,589",
+        "Number of female workers": "452",
+        "Female median weekly earnings": "1,339"
+    },
+    {
+        "Occupation": "Architects, except naval",
+        "Number of workers": "152",
+        "Median weekly earnings": "1,572",
+        "Number of male workers": "114",
+        "Male median weekly earnings": "1,706",
+        "Number of female workers": "38",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Surveyors, cartographers, and photogrammetrists",
+        "Number of workers": "42",
+        "Median weekly earnings": "N/A",
+        "Number of male workers": "34",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "8",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Aerospace engineers",
+        "Number of workers": "138",
+        "Median weekly earnings": "1,917",
+        "Number of male workers": "121",
+        "Male median weekly earnings": "2,018",
+        "Number of female workers": "17",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Agricultural engineers",
+        "Number of workers": "3",
+        "Median weekly earnings": "N/A",
+        "Number of male workers": "3",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "0",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Biomedical engineers",
+        "Number of workers": "17",
+        "Median weekly earnings": "N/A",
+        "Number of male workers": "14",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "3",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Chemical engineers",
+        "Number of workers": "86",
+        "Median weekly earnings": "1,863",
+        "Number of male workers": "74",
+        "Male median weekly earnings": "1,878",
+        "Number of female workers": "12",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Civil engineers",
+        "Number of workers": "421",
+        "Median weekly earnings": "1,616",
+        "Number of male workers": "360",
+        "Male median weekly earnings": "1,657",
+        "Number of female workers": "61",
+        "Female median weekly earnings": "1,353"
+    },
+    {
+        "Occupation": "Computer hardware engineers",
+        "Number of workers": "71",
+        "Median weekly earnings": "1,882",
+        "Number of male workers": "57",
+        "Male median weekly earnings": "1,919",
+        "Number of female workers": "15",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Electrical and electronics engineers",
+        "Number of workers": "266",
+        "Median weekly earnings": "1,781",
+        "Number of male workers": "241",
+        "Male median weekly earnings": "1,830",
+        "Number of female workers": "25",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Environmental engineers",
+        "Number of workers": "25",
+        "Median weekly earnings": "N/A",
+        "Number of male workers": "20",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "5",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Industrial engineers, including health and safety",
+        "Number of workers": "227",
+        "Median weekly earnings": "1,589",
+        "Number of male workers": "169",
+        "Male median weekly earnings": "1,616",
+        "Number of female workers": "58",
+        "Female median weekly earnings": "1,487"
+    },
+    {
+        "Occupation": "Marine engineers and naval architects",
+        "Number of workers": "13",
+        "Median weekly earnings": "N/A",
+        "Number of male workers": "13",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "0",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Materials engineers",
+        "Number of workers": "44",
+        "Median weekly earnings": "N/A",
+        "Number of male workers": "39",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "5",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Mechanical engineers",
+        "Number of workers": "322",
+        "Median weekly earnings": "1,625",
+        "Number of male workers": "303",
+        "Male median weekly earnings": "1,635",
+        "Number of female workers": "19",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Mining and geological engineers, including mining safety engineers",
+        "Number of workers": "8",
+        "Median weekly earnings": "N/A",
+        "Number of male workers": "4",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "4",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Nuclear engineers",
+        "Number of workers": "8",
+        "Median weekly earnings": "N/A",
+        "Number of male workers": "6",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "2",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Petroleum engineers",
+        "Number of workers": "24",
+        "Median weekly earnings": "N/A",
+        "Number of male workers": "22",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "2",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Engineers, all other",
+        "Number of workers": "529",
+        "Median weekly earnings": "1,636",
+        "Number of male workers": "455",
+        "Male median weekly earnings": "1,663",
+        "Number of female workers": "74",
+        "Female median weekly earnings": "1,446"
+    },
+    {
+        "Occupation": "Drafters",
+        "Number of workers": "104",
+        "Median weekly earnings": "1,045",
+        "Number of male workers": "82",
+        "Male median weekly earnings": "1,047",
+        "Number of female workers": "22",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Engineering technicians, except drafters",
+        "Number of workers": "462",
+        "Median weekly earnings": "1,161",
+        "Number of male workers": "382",
+        "Male median weekly earnings": "1,200",
+        "Number of female workers": "79",
+        "Female median weekly earnings": "915"
+    },
+    {
+        "Occupation": "Surveying and mapping technicians",
+        "Number of workers": "50",
+        "Median weekly earnings": "1,060",
+        "Number of male workers": "46",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "4",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Life, physical, and social science occupations",
+        "Number of workers": "1,233",
+        "Median weekly earnings": "1,334",
+        "Number of male workers": "676",
+        "Male median weekly earnings": "1,447",
+        "Number of female workers": "556",
+        "Female median weekly earnings": "1,237"
+    },
+    {
+        "Occupation": "Agricultural and food scientists",
+        "Number of workers": "36",
+        "Median weekly earnings": "N/A",
+        "Number of male workers": "23",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "13",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Biological scientists",
+        "Number of workers": "101",
+        "Median weekly earnings": "1,250",
+        "Number of male workers": "57",
+        "Male median weekly earnings": "1,266",
+        "Number of female workers": "44",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Conservation scientists and foresters",
+        "Number of workers": "20",
+        "Median weekly earnings": "N/A",
+        "Number of male workers": "11",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "8",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Medical scientists",
+        "Number of workers": "146",
+        "Median weekly earnings": "1,188",
+        "Number of male workers": "77",
+        "Male median weekly earnings": "1,214",
+        "Number of female workers": "70",
+        "Female median weekly earnings": "1,175"
+    },
+    {
+        "Occupation": "Life scientists, all other",
+        "Number of workers": "3",
+        "Median weekly earnings": "N/A",
+        "Number of male workers": "2",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "1",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Astronomers and physicists",
+        "Number of workers": "15",
+        "Median weekly earnings": "N/A",
+        "Number of male workers": "10",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "4",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Atmospheric and space scientists",
+        "Number of workers": "13",
+        "Median weekly earnings": "N/A",
+        "Number of male workers": "9",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "5",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Chemists and materials scientists",
+        "Number of workers": "85",
+        "Median weekly earnings": "1,582",
+        "Number of male workers": "49",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "36",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Environmental scientists and geoscientists",
+        "Number of workers": "101",
+        "Median weekly earnings": "1,486",
+        "Number of male workers": "65",
+        "Male median weekly earnings": "1,519",
+        "Number of female workers": "36",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Physical scientists, all other",
+        "Number of workers": "278",
+        "Median weekly earnings": "1,669",
+        "Number of male workers": "158",
+        "Male median weekly earnings": "1,901",
+        "Number of female workers": "120",
+        "Female median weekly earnings": "1,385"
+    },
+    {
+        "Occupation": "Economists",
+        "Number of workers": "35",
+        "Median weekly earnings": "N/A",
+        "Number of male workers": "26",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "9",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Survey researchers",
+        "Number of workers": "0",
+        "Median weekly earnings": "N/A",
+        "Number of male workers": "0",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "0",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Psychologists",
+        "Number of workers": "114",
+        "Median weekly earnings": "1,468",
+        "Number of male workers": "22",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "93",
+        "Female median weekly earnings": "1,441"
+    },
+    {
+        "Occupation": "Sociologists",
+        "Number of workers": "2",
+        "Median weekly earnings": "N/A",
+        "Number of male workers": "0",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "2",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Urban and regional planners",
+        "Number of workers": "22",
+        "Median weekly earnings": "N/A",
+        "Number of male workers": "14",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "8",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Miscellaneous social scientists and related workers",
+        "Number of workers": "32",
+        "Median weekly earnings": "N/A",
+        "Number of male workers": "20",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "12",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Agricultural and food science technicians",
+        "Number of workers": "20",
+        "Median weekly earnings": "N/A",
+        "Number of male workers": "16",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "4",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Biological technicians",
+        "Number of workers": "20",
+        "Median weekly earnings": "N/A",
+        "Number of male workers": "8",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "12",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Chemical technicians",
+        "Number of workers": "61",
+        "Median weekly earnings": "893",
+        "Number of male workers": "41",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "20",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Geological and petroleum technicians",
+        "Number of workers": "18",
+        "Median weekly earnings": "N/A",
+        "Number of male workers": "12",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "6",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Nuclear technicians",
+        "Number of workers": "3",
+        "Median weekly earnings": "N/A",
+        "Number of male workers": "2",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "1",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Social science research assistants",
+        "Number of workers": "1",
+        "Median weekly earnings": "N/A",
+        "Number of male workers": "0",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "1",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Miscellaneous life, physical, and social science technicians",
+        "Number of workers": "108",
+        "Median weekly earnings": "907",
+        "Number of male workers": "57",
+        "Male median weekly earnings": "928",
+        "Number of female workers": "51",
+        "Female median weekly earnings": "896"
+    },
+    {
+        "Occupation": "Community and social service occupations",
+        "Number of workers": "2,240",
+        "Median weekly earnings": "968",
+        "Number of male workers": "742",
+        "Male median weekly earnings": "1,064",
+        "Number of female workers": "1,498",
+        "Female median weekly earnings": "941"
+    },
+    {
+        "Occupation": "Counselors",
+        "Number of workers": "720",
+        "Median weekly earnings": "987",
+        "Number of male workers": "179",
+        "Male median weekly earnings": "944",
+        "Number of female workers": "541",
+        "Female median weekly earnings": "1,003"
+    },
+    {
+        "Occupation": "Social workers",
+        "Number of workers": "739",
+        "Median weekly earnings": "964",
+        "Number of male workers": "136",
+        "Male median weekly earnings": "1,108",
+        "Number of female workers": "603",
+        "Female median weekly earnings": "944"
+    },
+    {
+        "Occupation": "Probation officers and correctional treatment specialists",
+        "Number of workers": "94",
+        "Median weekly earnings": "1,067",
+        "Number of male workers": "50",
+        "Male median weekly earnings": "1,050",
+        "Number of female workers": "45",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Social and human service assistants",
+        "Number of workers": "207",
+        "Median weekly earnings": "805",
+        "Number of male workers": "41",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "166",
+        "Female median weekly earnings": "778"
+    },
+    {
+        "Occupation": "Miscellaneous community and social service specialists, including health educators and community health workers",
+        "Number of workers": "66",
+        "Median weekly earnings": "920",
+        "Number of male workers": "20",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "46",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Clergy",
+        "Number of workers": "332",
+        "Median weekly earnings": "1,066",
+        "Number of male workers": "275",
+        "Male median weekly earnings": "1,155",
+        "Number of female workers": "57",
+        "Female median weekly earnings": "862"
+    },
+    {
+        "Occupation": "Directors, religious activities and education",
+        "Number of workers": "48",
+        "Median weekly earnings": "N/A",
+        "Number of male workers": "29",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "19",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Religious workers, all other",
+        "Number of workers": "34",
+        "Median weekly earnings": "N/A",
+        "Number of male workers": "13",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "21",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Legal occupations",
+        "Number of workers": "1,478",
+        "Median weekly earnings": "1,562",
+        "Number of male workers": "670",
+        "Male median weekly earnings": "1,999",
+        "Number of female workers": "808",
+        "Female median weekly earnings": "1,266"
+    },
+    {
+        "Occupation": "Lawyers",
+        "Number of workers": "884",
+        "Median weekly earnings": "2,043",
+        "Number of male workers": "548",
+        "Male median weekly earnings": "2,202",
+        "Number of female workers": "336",
+        "Female median weekly earnings": "1,878"
+    },
+    {
+        "Occupation": "Judicial law clerks",
+        "Number of workers": "12",
+        "Median weekly earnings": "N/A",
+        "Number of male workers": "5",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "7",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Judges, magistrates, and other judicial workers",
+        "Number of workers": "61",
+        "Median weekly earnings": "1,794",
+        "Number of male workers": "27",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "34",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Paralegals and legal assistants",
+        "Number of workers": "364",
+        "Median weekly earnings": "963",
+        "Number of male workers": "41",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "323",
+        "Female median weekly earnings": "970"
+    },
+    {
+        "Occupation": "Miscellaneous legal support workers",
+        "Number of workers": "157",
+        "Median weekly earnings": "1,124",
+        "Number of male workers": "49",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "109",
+        "Female median weekly earnings": "1,009"
+    },
+    {
+        "Occupation": "Education, training, and library occupations",
+        "Number of workers": "7,238",
+        "Median weekly earnings": "1,057",
+        "Number of male workers": "1,991",
+        "Male median weekly earnings": "1,265",
+        "Number of female workers": "5,247",
+        "Female median weekly earnings": "987"
+    },
+    {
+        "Occupation": "Postsecondary teachers",
+        "Number of workers": "986",
+        "Median weekly earnings": "1,512",
+        "Number of male workers": "544",
+        "Male median weekly earnings": "1,670",
+        "Number of female workers": "442",
+        "Female median weekly earnings": "1,358"
+    },
+    {
+        "Occupation": "Preschool and kindergarten teachers",
+        "Number of workers": "496",
+        "Median weekly earnings": "701",
+        "Number of male workers": "7",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "489",
+        "Female median weekly earnings": "705"
+    },
+    {
+        "Occupation": "Elementary and middle school teachers",
+        "Number of workers": "3,162",
+        "Median weekly earnings": "1,067",
+        "Number of male workers": "640",
+        "Male median weekly earnings": "1,161",
+        "Number of female workers": "2,522",
+        "Female median weekly earnings": "1,042"
+    },
+    {
+        "Occupation": "Secondary school teachers",
+        "Number of workers": "882",
+        "Median weekly earnings": "1,161",
+        "Number of male workers": "408",
+        "Male median weekly earnings": "1,262",
+        "Number of female workers": "474",
+        "Female median weekly earnings": "1,095"
+    },
+    {
+        "Occupation": "Special education teachers",
+        "Number of workers": "295",
+        "Median weekly earnings": "1,108",
+        "Number of male workers": "42",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "253",
+        "Female median weekly earnings": "1,104"
+    },
+    {
+        "Occupation": "Other teachers and instructors",
+        "Number of workers": "455",
+        "Median weekly earnings": "1,054",
+        "Number of male workers": "192",
+        "Male median weekly earnings": "1,190",
+        "Number of female workers": "263",
+        "Female median weekly earnings": "942"
+    },
+    {
+        "Occupation": "Archivists, curators, and museum technicians",
+        "Number of workers": "34",
+        "Median weekly earnings": "N/A",
+        "Number of male workers": "15",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "19",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Librarians",
+        "Number of workers": "138",
+        "Median weekly earnings": "1,095",
+        "Number of male workers": "27",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "111",
+        "Female median weekly earnings": "1,093"
+    },
+    {
+        "Occupation": "Library technicians",
+        "Number of workers": "9",
+        "Median weekly earnings": "N/A",
+        "Number of male workers": "2",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "7",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Teacher assistants",
+        "Number of workers": "637",
+        "Median weekly earnings": "590",
+        "Number of male workers": "72",
+        "Male median weekly earnings": "707",
+        "Number of female workers": "565",
+        "Female median weekly earnings": "579"
+    },
+    {
+        "Occupation": "Other education, training, and library workers",
+        "Number of workers": "143",
+        "Median weekly earnings": "1,143",
+        "Number of male workers": "41",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "102",
+        "Female median weekly earnings": "1,058"
+    },
+    {
+        "Occupation": "Arts, design, entertainment, sports, and media occupations",
+        "Number of workers": "1,762",
+        "Median weekly earnings": "1,151",
+        "Number of male workers": "956",
+        "Male median weekly earnings": "1,231",
+        "Number of female workers": "806",
+        "Female median weekly earnings": "1,077"
+    },
+    {
+        "Occupation": "Artists and related workers",
+        "Number of workers": "83",
+        "Median weekly earnings": "1,155",
+        "Number of male workers": "48",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "35",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Designers",
+        "Number of workers": "661",
+        "Median weekly earnings": "1,126",
+        "Number of male workers": "337",
+        "Male median weekly earnings": "1,214",
+        "Number of female workers": "324",
+        "Female median weekly earnings": "1,052"
+    },
+    {
+        "Occupation": "Actors",
+        "Number of workers": "13",
+        "Median weekly earnings": "N/A",
+        "Number of male workers": "7",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "6",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Producers and directors",
+        "Number of workers": "109",
+        "Median weekly earnings": "1,483",
+        "Number of male workers": "59",
+        "Male median weekly earnings": "1,652",
+        "Number of female workers": "50",
+        "Female median weekly earnings": "1,156"
+    },
+    {
+        "Occupation": "Athletes, coaches, umpires, and related workers",
+        "Number of workers": "157",
+        "Median weekly earnings": "1,051",
+        "Number of male workers": "122",
+        "Male median weekly earnings": "1,134",
+        "Number of female workers": "35",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Dancers and choreographers",
+        "Number of workers": "13",
+        "Median weekly earnings": "N/A",
+        "Number of male workers": "3",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "10",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Musicians, singers, and related workers",
+        "Number of workers": "36",
+        "Median weekly earnings": "N/A",
+        "Number of male workers": "26",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "10",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Entertainers and performers, sports and related workers, all other",
+        "Number of workers": "15",
+        "Median weekly earnings": "N/A",
+        "Number of male workers": "12",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "4",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Announcers",
+        "Number of workers": "20",
+        "Median weekly earnings": "N/A",
+        "Number of male workers": "12",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "9",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "News analysts, reporters and correspondents",
+        "Number of workers": "77",
+        "Median weekly earnings": "1,301",
+        "Number of male workers": "40",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "37",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Public relations specialists",
+        "Number of workers": "119",
+        "Median weekly earnings": "1,410",
+        "Number of male workers": "41",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "78",
+        "Female median weekly earnings": "1,255"
+    },
+    {
+        "Occupation": "Editors",
+        "Number of workers": "98",
+        "Median weekly earnings": "1,163",
+        "Number of male workers": "32",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "66",
+        "Female median weekly earnings": "1,135"
+    },
+    {
+        "Occupation": "Technical writers",
+        "Number of workers": "54",
+        "Median weekly earnings": "1,434",
+        "Number of male workers": "26",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "28",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Writers and authors",
+        "Number of workers": "88",
+        "Median weekly earnings": "1,159",
+        "Number of male workers": "41",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "48",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Miscellaneous media and communication workers",
+        "Number of workers": "56",
+        "Median weekly earnings": "794",
+        "Number of male workers": "22",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "34",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Broadcast and sound engineering technicians and radio operators",
+        "Number of workers": "90",
+        "Median weekly earnings": "1,158",
+        "Number of male workers": "79",
+        "Male median weekly earnings": "1,189",
+        "Number of female workers": "11",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Photographers",
+        "Number of workers": "45",
+        "Median weekly earnings": "N/A",
+        "Number of male workers": "29",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "16",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Television, video, and motion picture camera operators and editors",
+        "Number of workers": "27",
+        "Median weekly earnings": "N/A",
+        "Number of male workers": "20",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "7",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Media and communication equipment workers, all other",
+        "Number of workers": "0",
+        "Median weekly earnings": "N/A",
+        "Number of male workers": "0",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "0",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Healthcare practitioners and technical occupations",
+        "Number of workers": "7,514",
+        "Median weekly earnings": "1,180",
+        "Number of male workers": "1,887",
+        "Male median weekly earnings": "1,422",
+        "Number of female workers": "5,627",
+        "Female median weekly earnings": "1,130"
+    },
+    {
+        "Occupation": "Chiropractors",
+        "Number of workers": "19",
+        "Median weekly earnings": "N/A",
+        "Number of male workers": "12",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "6",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Dentists",
+        "Number of workers": "71",
+        "Median weekly earnings": "2,302",
+        "Number of male workers": "43",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "28",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Dietitians and nutritionists",
+        "Number of workers": "94",
+        "Median weekly earnings": "1,019",
+        "Number of male workers": "10",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "85",
+        "Female median weekly earnings": "948"
+    },
+    {
+        "Occupation": "Optometrists",
+        "Number of workers": "27",
+        "Median weekly earnings": "N/A",
+        "Number of male workers": "12",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "15",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Pharmacists",
+        "Number of workers": "255",
+        "Median weekly earnings": "2,013",
+        "Number of male workers": "100",
+        "Male median weekly earnings": "2,245",
+        "Number of female workers": "155",
+        "Female median weekly earnings": "1,877"
+    },
+    {
+        "Occupation": "Physicians and surgeons",
+        "Number of workers": "857",
+        "Median weekly earnings": "2,292",
+        "Number of male workers": "507",
+        "Male median weekly earnings": "2,500",
+        "Number of female workers": "349",
+        "Female median weekly earnings": "1,878"
+    },
+    {
+        "Occupation": "Physician assistants",
+        "Number of workers": "109",
+        "Median weekly earnings": "1,831",
+        "Number of male workers": "31",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "77",
+        "Female median weekly earnings": "1,763"
+    },
+    {
+        "Occupation": "Podiatrists",
+        "Number of workers": "4",
+        "Median weekly earnings": "N/A",
+        "Number of male workers": "3",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "1",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Audiologists",
+        "Number of workers": "11",
+        "Median weekly earnings": "N/A",
+        "Number of male workers": "2",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "10",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Occupational therapists",
+        "Number of workers": "92",
+        "Median weekly earnings": "1,447",
+        "Number of male workers": "13",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "79",
+        "Female median weekly earnings": "1,441"
+    },
+    {
+        "Occupation": "Physical therapists",
+        "Number of workers": "211",
+        "Median weekly earnings": "1,431",
+        "Number of male workers": "81",
+        "Male median weekly earnings": "1,610",
+        "Number of female workers": "130",
+        "Female median weekly earnings": "1,323"
+    },
+    {
+        "Occupation": "Radiation therapists",
+        "Number of workers": "9",
+        "Median weekly earnings": "N/A",
+        "Number of male workers": "4",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "5",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Recreational therapists",
+        "Number of workers": "9",
+        "Median weekly earnings": "N/A",
+        "Number of male workers": "1",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "8",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Respiratory therapists",
+        "Number of workers": "93",
+        "Median weekly earnings": "1,213",
+        "Number of male workers": "34",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "59",
+        "Female median weekly earnings": "1,073"
+    },
+    {
+        "Occupation": "Speech-language pathologists",
+        "Number of workers": "131",
+        "Median weekly earnings": "1,193",
+        "Number of male workers": "7",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "124",
+        "Female median weekly earnings": "1,171"
+    },
+    {
+        "Occupation": "Exercise physiologists",
+        "Number of workers": "2",
+        "Median weekly earnings": "N/A",
+        "Number of male workers": "0",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "2",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Therapists, all other",
+        "Number of workers": "162",
+        "Median weekly earnings": "935",
+        "Number of male workers": "31",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "131",
+        "Female median weekly earnings": "919"
+    },
+    {
+        "Occupation": "Veterinarians",
+        "Number of workers": "72",
+        "Median weekly earnings": "1,773",
+        "Number of male workers": "17",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "55",
+        "Female median weekly earnings": "1,985"
+    },
+    {
+        "Occupation": "Registered nurses",
+        "Number of workers": "2,640",
+        "Median weekly earnings": "1,223",
+        "Number of male workers": "320",
+        "Male median weekly earnings": "1,256",
+        "Number of female workers": "2,321",
+        "Female median weekly earnings": "1,217"
+    },
+    {
+        "Occupation": "Nurse anesthetists",
+        "Number of workers": "22",
+        "Median weekly earnings": "N/A",
+        "Number of male workers": "10",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "12",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Nurse midwives",
+        "Number of workers": "6",
+        "Median weekly earnings": "N/A",
+        "Number of male workers": "0",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "6",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Nurse practitioners",
+        "Number of workers": "187",
+        "Median weekly earnings": "1,760",
+        "Number of male workers": "23",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "163",
+        "Female median weekly earnings": "1,753"
+    },
+    {
+        "Occupation": "Health diagnosing and treating practitioners, all other",
+        "Number of workers": "12",
+        "Median weekly earnings": "N/A",
+        "Number of male workers": "5",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "7",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Clinical laboratory technologists and technicians",
+        "Number of workers": "281",
+        "Median weekly earnings": "979",
+        "Number of male workers": "66",
+        "Male median weekly earnings": "1,117",
+        "Number of female workers": "215",
+        "Female median weekly earnings": "952"
+    },
+    {
+        "Occupation": "Dental hygienists",
+        "Number of workers": "104",
+        "Median weekly earnings": "1,094",
+        "Number of male workers": "5",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "99",
+        "Female median weekly earnings": "1,066"
+    },
+    {
+        "Occupation": "Diagnostic related technologists and technicians",
+        "Number of workers": "320",
+        "Median weekly earnings": "1,126",
+        "Number of male workers": "107",
+        "Male median weekly earnings": "1,166",
+        "Number of female workers": "213",
+        "Female median weekly earnings": "1,076"
+    },
+    {
+        "Occupation": "Emergency medical technicians and paramedics",
+        "Number of workers": "179",
+        "Median weekly earnings": "912",
+        "Number of male workers": "125",
+        "Male median weekly earnings": "991",
+        "Number of female workers": "54",
+        "Female median weekly earnings": "786"
+    },
+    {
+        "Occupation": "Health practitioner support technologists and technicians",
+        "Number of workers": "570",
+        "Median weekly earnings": "735",
+        "Number of male workers": "126",
+        "Male median weekly earnings": "843",
+        "Number of female workers": "444",
+        "Female median weekly earnings": "712"
+    },
+    {
+        "Occupation": "Licensed practical and licensed vocational nurses",
+        "Number of workers": "533",
+        "Median weekly earnings": "806",
+        "Number of male workers": "53",
+        "Male median weekly earnings": "896",
+        "Number of female workers": "481",
+        "Female median weekly earnings": "799"
+    },
+    {
+        "Occupation": "Medical records and health information technicians",
+        "Number of workers": "152",
+        "Median weekly earnings": "829",
+        "Number of male workers": "15",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "138",
+        "Female median weekly earnings": "799"
+    },
+    {
+        "Occupation": "Opticians, dispensing",
+        "Number of workers": "34",
+        "Median weekly earnings": "N/A",
+        "Number of male workers": "9",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "26",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Miscellaneous health technologists and technicians",
+        "Number of workers": "130",
+        "Median weekly earnings": "880",
+        "Number of male workers": "46",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "84",
+        "Female median weekly earnings": "799"
+    },
+    {
+        "Occupation": "Other healthcare practitioners and technical occupations",
+        "Number of workers": "117",
+        "Median weekly earnings": "1,252",
+        "Number of male workers": "69",
+        "Male median weekly earnings": "1,261",
+        "Number of female workers": "48",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "",
+        "Number of workers": "",
+        "Median weekly earnings": "",
+        "Number of male workers": "",
+        "Male median weekly earnings": "",
+        "Number of female workers": "",
+        "Female median weekly earnings": ""
+    },
+    {
+        "Occupation": "Service occupations",
+        "Number of workers": "16,558",
+        "Median weekly earnings": "592",
+        "Number of male workers": "7,898",
+        "Male median weekly earnings": "659",
+        "Number of female workers": "8,660",
+        "Female median weekly earnings": "537"
+    },
+    {
+        "Occupation": "Healthcare support occupations",
+        "Number of workers": "2,700",
+        "Median weekly earnings": "591",
+        "Number of male workers": "363",
+        "Male median weekly earnings": "639",
+        "Number of female workers": "2,337",
+        "Female median weekly earnings": "585"
+    },
+    {
+        "Occupation": "Nursing, psychiatric, and home health aides",
+        "Number of workers": "1,471",
+        "Median weekly earnings": "562",
+        "Number of male workers": "184",
+        "Male median weekly earnings": "588",
+        "Number of female workers": "1,287",
+        "Female median weekly earnings": "556"
+    },
+    {
+        "Occupation": "Occupational therapy assistants and aides",
+        "Number of workers": "23",
+        "Median weekly earnings": "N/A",
+        "Number of male workers": "4",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "19",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Physical therapist assistants and aides",
+        "Number of workers": "72",
+        "Median weekly earnings": "955",
+        "Number of male workers": "29",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "43",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Massage therapists",
+        "Number of workers": "57",
+        "Median weekly earnings": "582",
+        "Number of male workers": "15",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "42",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Dental assistants",
+        "Number of workers": "199",
+        "Median weekly earnings": "615",
+        "Number of male workers": "6",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "193",
+        "Female median weekly earnings": "613"
+    },
+    {
+        "Occupation": "Medical assistants",
+        "Number of workers": "521",
+        "Median weekly earnings": "635",
+        "Number of male workers": "40",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "481",
+        "Female median weekly earnings": "635"
+    },
+    {
+        "Occupation": "Medical transcriptionists",
+        "Number of workers": "28",
+        "Median weekly earnings": "N/A",
+        "Number of male workers": "5",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "23",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Pharmacy aides",
+        "Number of workers": "41",
+        "Median weekly earnings": "N/A",
+        "Number of male workers": "14",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "27",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Veterinary assistants and laboratory animal caretakers",
+        "Number of workers": "39",
+        "Median weekly earnings": "N/A",
+        "Number of male workers": "7",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "31",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Phlebotomists",
+        "Number of workers": "98",
+        "Median weekly earnings": "623",
+        "Number of male workers": "9",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "88",
+        "Female median weekly earnings": "612"
+    },
+    {
+        "Occupation": "Miscellaneous healthcare support occupations, including medical equipment preparers",
+        "Number of workers": "151",
+        "Median weekly earnings": "617",
+        "Number of male workers": "47",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "103",
+        "Female median weekly earnings": "571"
+    },
+    {
+        "Occupation": "Protective service occupations",
+        "Number of workers": "2,725",
+        "Median weekly earnings": "900",
+        "Number of male workers": "2,172",
+        "Male median weekly earnings": "953",
+        "Number of female workers": "553",
+        "Female median weekly earnings": "731"
+    },
+    {
+        "Occupation": "First-line supervisors of correctional officers",
+        "Number of workers": "41",
+        "Median weekly earnings": "N/A",
+        "Number of male workers": "29",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "12",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "First-line supervisors of police and detectives",
+        "Number of workers": "80",
+        "Median weekly earnings": "1,438",
+        "Number of male workers": "71",
+        "Male median weekly earnings": "1,449",
+        "Number of female workers": "9",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "First-line supervisors of fire fighting and prevention workers",
+        "Number of workers": "40",
+        "Median weekly earnings": "N/A",
+        "Number of male workers": "36",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "4",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "First-line supervisors of protective service workers, all other",
+        "Number of workers": "66",
+        "Median weekly earnings": "659",
+        "Number of male workers": "50",
+        "Male median weekly earnings": "698",
+        "Number of female workers": "17",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Firefighters",
+        "Number of workers": "292",
+        "Median weekly earnings": "1,207",
+        "Number of male workers": "287",
+        "Male median weekly earnings": "1,203",
+        "Number of female workers": "6",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Fire inspectors",
+        "Number of workers": "16",
+        "Median weekly earnings": "N/A",
+        "Number of male workers": "15",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "2",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Bailiffs, correctional officers, and jailers",
+        "Number of workers": "365",
+        "Median weekly earnings": "776",
+        "Number of male workers": "251",
+        "Male median weekly earnings": "890",
+        "Number of female workers": "114",
+        "Female median weekly earnings": "664"
+    },
+    {
+        "Occupation": "Detectives and criminal investigators",
+        "Number of workers": "151",
+        "Median weekly earnings": "1,428",
+        "Number of male workers": "119",
+        "Male median weekly earnings": "1,472",
+        "Number of female workers": "32",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Fish and game wardens",
+        "Number of workers": "2",
+        "Median weekly earnings": "N/A",
+        "Number of male workers": "1",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "1",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Parking enforcement workers",
+        "Number of workers": "2",
+        "Median weekly earnings": "N/A",
+        "Number of male workers": "2",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "1",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Police and sheriff's patrol officers",
+        "Number of workers": "686",
+        "Median weekly earnings": "1,111",
+        "Number of male workers": "559",
+        "Male median weekly earnings": "1,143",
+        "Number of female workers": "127",
+        "Female median weekly earnings": "922"
+    },
+    {
+        "Occupation": "Transit and railroad police",
+        "Number of workers": "4",
+        "Median weekly earnings": "N/A",
+        "Number of male workers": "4",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "0",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Animal control workers",
+        "Number of workers": "7",
+        "Median weekly earnings": "N/A",
+        "Number of male workers": "6",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "1",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Private detectives and investigators",
+        "Number of workers": "78",
+        "Median weekly earnings": "973",
+        "Number of male workers": "38",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "41",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Security guards and gaming surveillance officers",
+        "Number of workers": "790",
+        "Median weekly earnings": "650",
+        "Number of male workers": "631",
+        "Male median weekly earnings": "671",
+        "Number of female workers": "159",
+        "Female median weekly earnings": "589"
+    },
+    {
+        "Occupation": "Crossing guards",
+        "Number of workers": "21",
+        "Median weekly earnings": "N/A",
+        "Number of male workers": "15",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "6",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Transportation security screeners",
+        "Number of workers": "41",
+        "Median weekly earnings": "N/A",
+        "Number of male workers": "32",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "9",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Lifeguards and other recreational, and all other protective service workers",
+        "Number of workers": "41",
+        "Median weekly earnings": "N/A",
+        "Number of male workers": "28",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "13",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Food preparation and serving related occupations",
+        "Number of workers": "4,689",
+        "Median weekly earnings": "522",
+        "Number of male workers": "2,352",
+        "Male median weekly earnings": "576",
+        "Number of female workers": "2,337",
+        "Female median weekly earnings": "492"
+    },
+    {
+        "Occupation": "Chefs and head cooks",
+        "Number of workers": "406",
+        "Median weekly earnings": "698",
+        "Number of male workers": "334",
+        "Male median weekly earnings": "727",
+        "Number of female workers": "72",
+        "Female median weekly earnings": "553"
+    },
+    {
+        "Occupation": "First-line supervisors of food preparation and serving workers",
+        "Number of workers": "426",
+        "Median weekly earnings": "584",
+        "Number of male workers": "184",
+        "Male median weekly earnings": "657",
+        "Number of female workers": "242",
+        "Female median weekly earnings": "545"
+    },
+    {
+        "Occupation": "Cooks",
+        "Number of workers": "1,362",
+        "Median weekly earnings": "512",
+        "Number of male workers": "831",
+        "Male median weekly earnings": "535",
+        "Number of female workers": "531",
+        "Female median weekly earnings": "489"
+    },
+    {
+        "Occupation": "Food preparation workers",
+        "Number of workers": "574",
+        "Median weekly earnings": "496",
+        "Number of male workers": "246",
+        "Male median weekly earnings": "532",
+        "Number of female workers": "328",
+        "Female median weekly earnings": "463"
+    },
+    {
+        "Occupation": "Bartenders",
+        "Number of workers": "293",
+        "Median weekly earnings": "610",
+        "Number of male workers": "159",
+        "Male median weekly earnings": "655",
+        "Number of female workers": "134",
+        "Female median weekly earnings": "578"
+    },
+    {
+        "Occupation": "Combined food preparation and serving workers, including fast food",
+        "Number of workers": "191",
+        "Median weekly earnings": "462",
+        "Number of male workers": "65",
+        "Male median weekly earnings": "457",
+        "Number of female workers": "126",
+        "Female median weekly earnings": "467"
+    },
+    {
+        "Occupation": "Counter attendants, cafeteria, food concession, and coffee shop",
+        "Number of workers": "48",
+        "Median weekly earnings": "N/A",
+        "Number of male workers": "26",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "22",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Waiters and waitresses",
+        "Number of workers": "973",
+        "Median weekly earnings": "511",
+        "Number of male workers": "292",
+        "Male median weekly earnings": "594",
+        "Number of female workers": "681",
+        "Female median weekly earnings": "491"
+    },
+    {
+        "Occupation": "Food servers, nonrestaurant",
+        "Number of workers": "89",
+        "Median weekly earnings": "515",
+        "Number of male workers": "29",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "60",
+        "Female median weekly earnings": "501"
+    },
+    {
+        "Occupation": "Dining room and cafeteria attendants and bartender helpers",
+        "Number of workers": "116",
+        "Median weekly earnings": "554",
+        "Number of male workers": "66",
+        "Male median weekly earnings": "605",
+        "Number of female workers": "50",
+        "Female median weekly earnings": "513"
+    },
+    {
+        "Occupation": "Dishwashers",
+        "Number of workers": "126",
+        "Median weekly earnings": "453",
+        "Number of male workers": "102",
+        "Male median weekly earnings": "464",
+        "Number of female workers": "24",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Hosts and hostesses, restaurant, lounge, and coffee shop",
+        "Number of workers": "81",
+        "Median weekly earnings": "456",
+        "Number of male workers": "17",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "64",
+        "Female median weekly earnings": "441"
+    },
+    {
+        "Occupation": "Food preparation and serving related workers, all other",
+        "Number of workers": "4",
+        "Median weekly earnings": "N/A",
+        "Number of male workers": "2",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "2",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Building and grounds cleaning and maintenance occupations",
+        "Number of workers": "3,679",
+        "Median weekly earnings": "580",
+        "Number of male workers": "2,293",
+        "Male median weekly earnings": "618",
+        "Number of female workers": "1,386",
+        "Female median weekly earnings": "502"
+    },
+    {
+        "Occupation": "First-line supervisors of housekeeping and janitorial workers",
+        "Number of workers": "215",
+        "Median weekly earnings": "710",
+        "Number of male workers": "134",
+        "Male median weekly earnings": "758",
+        "Number of female workers": "80",
+        "Female median weekly earnings": "639"
+    },
+    {
+        "Occupation": "First-line supervisors of landscaping, lawn service, and groundskeeping workers",
+        "Number of workers": "121",
+        "Median weekly earnings": "797",
+        "Number of male workers": "110",
+        "Male median weekly earnings": "800",
+        "Number of female workers": "11",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Janitors and building cleaners",
+        "Number of workers": "1,563",
+        "Median weekly earnings": "582",
+        "Number of male workers": "1,068",
+        "Male median weekly earnings": "610",
+        "Number of female workers": "494",
+        "Female median weekly earnings": "510"
+    },
+    {
+        "Occupation": "Maids and housekeeping cleaners",
+        "Number of workers": "895",
+        "Median weekly earnings": "490",
+        "Number of male workers": "126",
+        "Male median weekly earnings": "520",
+        "Number of female workers": "769",
+        "Female median weekly earnings": "484"
+    },
+    {
+        "Occupation": "Pest control workers",
+        "Number of workers": "73",
+        "Median weekly earnings": "731",
+        "Number of male workers": "71",
+        "Male median weekly earnings": "741",
+        "Number of female workers": "2",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Grounds maintenance workers",
+        "Number of workers": "813",
+        "Median weekly earnings": "606",
+        "Number of male workers": "784",
+        "Male median weekly earnings": "607",
+        "Number of female workers": "29",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Personal care and service occupations",
+        "Number of workers": "2,764",
+        "Median weekly earnings": "565",
+        "Number of male workers": "718",
+        "Male median weekly earnings": "624",
+        "Number of female workers": "2,047",
+        "Female median weekly earnings": "531"
+    },
+    {
+        "Occupation": "First-line supervisors of gaming workers",
+        "Number of workers": "117",
+        "Median weekly earnings": "821",
+        "Number of male workers": "63",
+        "Male median weekly earnings": "853",
+        "Number of female workers": "54",
+        "Female median weekly earnings": "791"
+    },
+    {
+        "Occupation": "First-line supervisors of personal service workers",
+        "Number of workers": "75",
+        "Median weekly earnings": "778",
+        "Number of male workers": "32",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "43",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Animal trainers",
+        "Number of workers": "25",
+        "Median weekly earnings": "N/A",
+        "Number of male workers": "17",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "9",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Nonfarm animal caretakers",
+        "Number of workers": "105",
+        "Median weekly earnings": "515",
+        "Number of male workers": "25",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "79",
+        "Female median weekly earnings": "489"
+    },
+    {
+        "Occupation": "Gaming services workers",
+        "Number of workers": "60",
+        "Median weekly earnings": "635",
+        "Number of male workers": "32",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "28",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Motion picture projectionists",
+        "Number of workers": "0",
+        "Median weekly earnings": "N/A",
+        "Number of male workers": "0",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "0",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Ushers, lobby attendants, and ticket takers",
+        "Number of workers": "10",
+        "Median weekly earnings": "N/A",
+        "Number of male workers": "4",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "6",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Miscellaneous entertainment attendants and related workers",
+        "Number of workers": "77",
+        "Median weekly earnings": "583",
+        "Number of male workers": "54",
+        "Male median weekly earnings": "557",
+        "Number of female workers": "24",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Embalmers and funeral attendants",
+        "Number of workers": "6",
+        "Median weekly earnings": "N/A",
+        "Number of male workers": "4",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "2",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Morticians, undertakers, and funeral directors",
+        "Number of workers": "20",
+        "Median weekly earnings": "N/A",
+        "Number of male workers": "12",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "8",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Barbers",
+        "Number of workers": "62",
+        "Median weekly earnings": "662",
+        "Number of male workers": "50",
+        "Male median weekly earnings": "789",
+        "Number of female workers": "12",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Hairdressers, hairstylists, and cosmetologists",
+        "Number of workers": "310",
+        "Median weekly earnings": "570",
+        "Number of male workers": "24",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "286",
+        "Female median weekly earnings": "569"
+    },
+    {
+        "Occupation": "Miscellaneous personal appearance workers",
+        "Number of workers": "227",
+        "Median weekly earnings": "571",
+        "Number of male workers": "33",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "193",
+        "Female median weekly earnings": "554"
+    },
+    {
+        "Occupation": "Baggage porters, bellhops, and concierges",
+        "Number of workers": "69",
+        "Median weekly earnings": "663",
+        "Number of male workers": "54",
+        "Male median weekly earnings": "672",
+        "Number of female workers": "15",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Tour and travel guides",
+        "Number of workers": "28",
+        "Median weekly earnings": "N/A",
+        "Number of male workers": "17",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "11",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Childcare workers",
+        "Number of workers": "473",
+        "Median weekly earnings": "495",
+        "Number of male workers": "40",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "433",
+        "Female median weekly earnings": "491"
+    },
+    {
+        "Occupation": "Personal care aides",
+        "Number of workers": "815",
+        "Median weekly earnings": "516",
+        "Number of male workers": "130",
+        "Male median weekly earnings": "581",
+        "Number of female workers": "685",
+        "Female median weekly earnings": "509"
+    },
+    {
+        "Occupation": "Recreation and fitness workers",
+        "Number of workers": "191",
+        "Median weekly earnings": "607",
+        "Number of male workers": "88",
+        "Male median weekly earnings": "656",
+        "Number of female workers": "102",
+        "Female median weekly earnings": "580"
+    },
+    {
+        "Occupation": "Residential advisors",
+        "Number of workers": "21",
+        "Median weekly earnings": "N/A",
+        "Number of male workers": "8",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "13",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Personal care and service workers, all other",
+        "Number of workers": "74",
+        "Median weekly earnings": "611",
+        "Number of male workers": "30",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "44",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "",
+        "Number of workers": "",
+        "Median weekly earnings": "",
+        "Number of male workers": "",
+        "Male median weekly earnings": "",
+        "Number of female workers": "",
+        "Female median weekly earnings": ""
+    },
+    {
+        "Occupation": "Sales and office occupations",
+        "Number of workers": "23,883",
+        "Median weekly earnings": "758",
+        "Number of male workers": "9,695",
+        "Male median weekly earnings": "874",
+        "Number of female workers": "14,188",
+        "Female median weekly earnings": "713"
+    },
+    {
+        "Occupation": "Sales and related occupations",
+        "Number of workers": "9,929",
+        "Median weekly earnings": "830",
+        "Number of male workers": "5,525",
+        "Male median weekly earnings": "982",
+        "Number of female workers": "4,404",
+        "Female median weekly earnings": "677"
+    },
+    {
+        "Occupation": "First-line supervisors of retail sales workers",
+        "Number of workers": "2,316",
+        "Median weekly earnings": "817",
+        "Number of male workers": "1,246",
+        "Male median weekly earnings": "955",
+        "Number of female workers": "1,070",
+        "Female median weekly earnings": "708"
+    },
+    {
+        "Occupation": "First-line supervisors of non-retail sales workers",
+        "Number of workers": "857",
+        "Median weekly earnings": "1,162",
+        "Number of male workers": "596",
+        "Male median weekly earnings": "1,157",
+        "Number of female workers": "261",
+        "Female median weekly earnings": "1,173"
+    },
+    {
+        "Occupation": "Cashiers",
+        "Number of workers": "1,398",
+        "Median weekly earnings": "503",
+        "Number of male workers": "438",
+        "Male median weekly earnings": "510",
+        "Number of female workers": "959",
+        "Female median weekly earnings": "499"
+    },
+    {
+        "Occupation": "Counter and rental clerks",
+        "Number of workers": "67",
+        "Median weekly earnings": "686",
+        "Number of male workers": "44",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "23",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Parts salespersons",
+        "Number of workers": "122",
+        "Median weekly earnings": "777",
+        "Number of male workers": "107",
+        "Male median weekly earnings": "768",
+        "Number of female workers": "15",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Retail salespersons",
+        "Number of workers": "1,856",
+        "Median weekly earnings": "692",
+        "Number of male workers": "1,094",
+        "Male median weekly earnings": "806",
+        "Number of female workers": "762",
+        "Female median weekly earnings": "578"
+    },
+    {
+        "Occupation": "Advertising sales agents",
+        "Number of workers": "169",
+        "Median weekly earnings": "1,050",
+        "Number of male workers": "88",
+        "Male median weekly earnings": "1,143",
+        "Number of female workers": "81",
+        "Female median weekly earnings": "874"
+    },
+    {
+        "Occupation": "Insurance sales agents",
+        "Number of workers": "461",
+        "Median weekly earnings": "927",
+        "Number of male workers": "214",
+        "Male median weekly earnings": "1,034",
+        "Number of female workers": "247",
+        "Female median weekly earnings": "806"
+    },
+    {
+        "Occupation": "Securities, commodities, and financial services sales agents",
+        "Number of workers": "192",
+        "Median weekly earnings": "1,302",
+        "Number of male workers": "129",
+        "Male median weekly earnings": "1,386",
+        "Number of female workers": "63",
+        "Female median weekly earnings": "1,063"
+    },
+    {
+        "Occupation": "Travel agents",
+        "Number of workers": "52",
+        "Median weekly earnings": "745",
+        "Number of male workers": "8",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "44",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Sales representatives, services, all other",
+        "Number of workers": "477",
+        "Median weekly earnings": "1,211",
+        "Number of male workers": "340",
+        "Male median weekly earnings": "1,332",
+        "Number of female workers": "137",
+        "Female median weekly earnings": "973"
+    },
+    {
+        "Occupation": "Sales representatives, wholesale and manufacturing",
+        "Number of workers": "1,107",
+        "Median weekly earnings": "1,206",
+        "Number of male workers": "813",
+        "Male median weekly earnings": "1,262",
+        "Number of female workers": "294",
+        "Female median weekly earnings": "1,067"
+    },
+    {
+        "Occupation": "Models, demonstrators, and product promoters",
+        "Number of workers": "15",
+        "Median weekly earnings": "N/A",
+        "Number of male workers": "3",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "12",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Real estate brokers and sales agents",
+        "Number of workers": "543",
+        "Median weekly earnings": "1,019",
+        "Number of male workers": "222",
+        "Male median weekly earnings": "1,344",
+        "Number of female workers": "321",
+        "Female median weekly earnings": "883"
+    },
+    {
+        "Occupation": "Sales engineers",
+        "Number of workers": "32",
+        "Median weekly earnings": "N/A",
+        "Number of male workers": "29",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "3",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Telemarketers",
+        "Number of workers": "42",
+        "Median weekly earnings": "N/A",
+        "Number of male workers": "18",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "24",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Door-to-door sales workers, news and street vendors, and related workers",
+        "Number of workers": "31",
+        "Median weekly earnings": "N/A",
+        "Number of male workers": "14",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "16",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Sales and related workers, all other",
+        "Number of workers": "194",
+        "Median weekly earnings": "935",
+        "Number of male workers": "123",
+        "Male median weekly earnings": "966",
+        "Number of female workers": "71",
+        "Female median weekly earnings": "848"
+    },
+    {
+        "Occupation": "Office and administrative support occupations",
+        "Number of workers": "13,954",
+        "Median weekly earnings": "732",
+        "Number of male workers": "4,170",
+        "Male median weekly earnings": "771",
+        "Number of female workers": "9,784",
+        "Female median weekly earnings": "721"
+    },
+    {
+        "Occupation": "First-line supervisors of office and administrative support workers",
+        "Number of workers": "1,215",
+        "Median weekly earnings": "866",
+        "Number of male workers": "406",
+        "Male median weekly earnings": "971",
+        "Number of female workers": "809",
+        "Female median weekly earnings": "816"
+    },
+    {
+        "Occupation": "Switchboard operators, including answering service",
+        "Number of workers": "20",
+        "Median weekly earnings": "N/A",
+        "Number of male workers": "5",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "16",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Telephone operators",
+        "Number of workers": "34",
+        "Median weekly earnings": "N/A",
+        "Number of male workers": "6",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "28",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Communications equipment operators, all other",
+        "Number of workers": "8",
+        "Median weekly earnings": "N/A",
+        "Number of male workers": "4",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "4",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Bill and account collectors",
+        "Number of workers": "113",
+        "Median weekly earnings": "701",
+        "Number of male workers": "22",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "91",
+        "Female median weekly earnings": "672"
+    },
+    {
+        "Occupation": "Billing and posting clerks",
+        "Number of workers": "389",
+        "Median weekly earnings": "742",
+        "Number of male workers": "45",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "344",
+        "Female median weekly earnings": "736"
+    },
+    {
+        "Occupation": "Bookkeeping, accounting, and auditing clerks",
+        "Number of workers": "657",
+        "Median weekly earnings": "764",
+        "Number of male workers": "84",
+        "Male median weekly earnings": "784",
+        "Number of female workers": "573",
+        "Female median weekly earnings": "764"
+    },
+    {
+        "Occupation": "Gaming cage workers",
+        "Number of workers": "10",
+        "Median weekly earnings": "N/A",
+        "Number of male workers": "2",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "8",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Payroll and timekeeping clerks",
+        "Number of workers": "127",
+        "Median weekly earnings": "766",
+        "Number of male workers": "17",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "110",
+        "Female median weekly earnings": "756"
+    },
+    {
+        "Occupation": "Procurement clerks",
+        "Number of workers": "29",
+        "Median weekly earnings": "N/A",
+        "Number of male workers": "9",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "21",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Tellers",
+        "Number of workers": "241",
+        "Median weekly earnings": "575",
+        "Number of male workers": "35",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "207",
+        "Female median weekly earnings": "571"
+    },
+    {
+        "Occupation": "Financial clerks, all other",
+        "Number of workers": "119",
+        "Median weekly earnings": "890",
+        "Number of male workers": "48",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "71",
+        "Female median weekly earnings": "797"
+    },
+    {
+        "Occupation": "Brokerage clerks",
+        "Number of workers": "3",
+        "Median weekly earnings": "N/A",
+        "Number of male workers": "1",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "1",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Correspondence clerks",
+        "Number of workers": "6",
+        "Median weekly earnings": "N/A",
+        "Number of male workers": "2",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "4",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Court, municipal, and license clerks",
+        "Number of workers": "83",
+        "Median weekly earnings": "748",
+        "Number of male workers": "17",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "66",
+        "Female median weekly earnings": "759"
+    },
+    {
+        "Occupation": "Credit authorizers, checkers, and clerks",
+        "Number of workers": "39",
+        "Median weekly earnings": "N/A",
+        "Number of male workers": "10",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "30",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Customer service representatives",
+        "Number of workers": "1,977",
+        "Median weekly earnings": "693",
+        "Number of male workers": "717",
+        "Male median weekly earnings": "736",
+        "Number of female workers": "1,259",
+        "Female median weekly earnings": "673"
+    },
+    {
+        "Occupation": "Eligibility interviewers, government programs",
+        "Number of workers": "68",
+        "Median weekly earnings": "763",
+        "Number of male workers": "16",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "52",
+        "Female median weekly earnings": "756"
+    },
+    {
+        "Occupation": "File clerks",
+        "Number of workers": "137",
+        "Median weekly earnings": "672",
+        "Number of male workers": "27",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "110",
+        "Female median weekly earnings": "667"
+    },
+    {
+        "Occupation": "Hotel, motel, and resort desk clerks",
+        "Number of workers": "90",
+        "Median weekly earnings": "519",
+        "Number of male workers": "24",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "65",
+        "Female median weekly earnings": "490"
+    },
+    {
+        "Occupation": "Interviewers, except eligibility and loan",
+        "Number of workers": "93",
+        "Median weekly earnings": "740",
+        "Number of male workers": "10",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "82",
+        "Female median weekly earnings": "734"
+    },
+    {
+        "Occupation": "Library assistants, clerical",
+        "Number of workers": "34",
+        "Median weekly earnings": "N/A",
+        "Number of male workers": "5",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "29",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Loan interviewers and clerks",
+        "Number of workers": "118",
+        "Median weekly earnings": "825",
+        "Number of male workers": "30",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "88",
+        "Female median weekly earnings": "802"
+    },
+    {
+        "Occupation": "New accounts clerks",
+        "Number of workers": "25",
+        "Median weekly earnings": "N/A",
+        "Number of male workers": "8",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "17",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Order clerks",
+        "Number of workers": "72",
+        "Median weekly earnings": "783",
+        "Number of male workers": "40",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "32",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Human resources assistants, except payroll and timekeeping",
+        "Number of workers": "51",
+        "Median weekly earnings": "702",
+        "Number of male workers": "10",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "41",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Receptionists and information clerks",
+        "Number of workers": "909",
+        "Median weekly earnings": "642",
+        "Number of male workers": "100",
+        "Male median weekly earnings": "735",
+        "Number of female workers": "809",
+        "Female median weekly earnings": "636"
+    },
+    {
+        "Occupation": "Reservation and transportation ticket agents and travel clerks",
+        "Number of workers": "103",
+        "Median weekly earnings": "813",
+        "Number of male workers": "46",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "56",
+        "Female median weekly earnings": "789"
+    },
+    {
+        "Occupation": "Information and record clerks, all other",
+        "Number of workers": "88",
+        "Median weekly earnings": "735",
+        "Number of male workers": "24",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "64",
+        "Female median weekly earnings": "691"
+    },
+    {
+        "Occupation": "Cargo and freight agents",
+        "Number of workers": "19",
+        "Median weekly earnings": "N/A",
+        "Number of male workers": "11",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "8",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Couriers and messengers",
+        "Number of workers": "260",
+        "Median weekly earnings": "769",
+        "Number of male workers": "221",
+        "Male median weekly earnings": "789",
+        "Number of female workers": "40",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Dispatchers",
+        "Number of workers": "240",
+        "Median weekly earnings": "806",
+        "Number of male workers": "108",
+        "Male median weekly earnings": "854",
+        "Number of female workers": "131",
+        "Female median weekly earnings": "763"
+    },
+    {
+        "Occupation": "Meter readers, utilities",
+        "Number of workers": "13",
+        "Median weekly earnings": "N/A",
+        "Number of male workers": "12",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "1",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Postal service clerks",
+        "Number of workers": "73",
+        "Median weekly earnings": "907",
+        "Number of male workers": "30",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "43",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Postal service mail carriers",
+        "Number of workers": "296",
+        "Median weekly earnings": "951",
+        "Number of male workers": "185",
+        "Male median weekly earnings": "994",
+        "Number of female workers": "111",
+        "Female median weekly earnings": "893"
+    },
+    {
+        "Occupation": "Postal service mail sorters, processors, and processing machine operators",
+        "Number of workers": "67",
+        "Median weekly earnings": "1,145",
+        "Number of male workers": "37",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "30",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Production, planning, and expediting clerks",
+        "Number of workers": "268",
+        "Median weekly earnings": "939",
+        "Number of male workers": "114",
+        "Male median weekly earnings": "1,039",
+        "Number of female workers": "154",
+        "Female median weekly earnings": "872"
+    },
+    {
+        "Occupation": "Shipping, receiving, and traffic clerks",
+        "Number of workers": "507",
+        "Median weekly earnings": "679",
+        "Number of male workers": "332",
+        "Male median weekly earnings": "686",
+        "Number of female workers": "175",
+        "Female median weekly earnings": "662"
+    },
+    {
+        "Occupation": "Stock clerks and order fillers",
+        "Number of workers": "1,016",
+        "Median weekly earnings": "599",
+        "Number of male workers": "636",
+        "Male median weekly earnings": "596",
+        "Number of female workers": "380",
+        "Female median weekly earnings": "605"
+    },
+    {
+        "Occupation": "Weighers, measurers, checkers, and samplers, recordkeeping",
+        "Number of workers": "53",
+        "Median weekly earnings": "716",
+        "Number of male workers": "26",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "27",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Secretaries and administrative assistants",
+        "Number of workers": "2,069",
+        "Median weekly earnings": "765",
+        "Number of male workers": "137",
+        "Male median weekly earnings": "795",
+        "Number of female workers": "1,932",
+        "Female median weekly earnings": "763"
+    },
+    {
+        "Occupation": "Computer operators",
+        "Number of workers": "68",
+        "Median weekly earnings": "960",
+        "Number of male workers": "41",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "28",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Data entry keyers",
+        "Number of workers": "203",
+        "Median weekly earnings": "675",
+        "Number of male workers": "50",
+        "Male median weekly earnings": "738",
+        "Number of female workers": "153",
+        "Female median weekly earnings": "656"
+    },
+    {
+        "Occupation": "Word processors and typists",
+        "Number of workers": "36",
+        "Median weekly earnings": "N/A",
+        "Number of male workers": "6",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "30",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Desktop publishers",
+        "Number of workers": "0",
+        "Median weekly earnings": "N/A",
+        "Number of male workers": "0",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "0",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Insurance claims and policy processing clerks",
+        "Number of workers": "251",
+        "Median weekly earnings": "746",
+        "Number of male workers": "47",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "204",
+        "Female median weekly earnings": "739"
+    },
+    {
+        "Occupation": "Mail clerks and mail machine operators, except postal service",
+        "Number of workers": "48",
+        "Median weekly earnings": "N/A",
+        "Number of male workers": "26",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "22",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Office clerks, general",
+        "Number of workers": "997",
+        "Median weekly earnings": "685",
+        "Number of male workers": "188",
+        "Male median weekly earnings": "718",
+        "Number of female workers": "809",
+        "Female median weekly earnings": "677"
+    },
+    {
+        "Occupation": "Office machine operators, except computer",
+        "Number of workers": "30",
+        "Median weekly earnings": "N/A",
+        "Number of male workers": "13",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "17",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Proofreaders and copy markers",
+        "Number of workers": "5",
+        "Median weekly earnings": "N/A",
+        "Number of male workers": "1",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "4",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Statistical assistants",
+        "Number of workers": "58",
+        "Median weekly earnings": "1,480",
+        "Number of male workers": "33",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "25",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Office and administrative support workers, all other",
+        "Number of workers": "522",
+        "Median weekly earnings": "866",
+        "Number of male workers": "147",
+        "Male median weekly earnings": "950",
+        "Number of female workers": "375",
+        "Female median weekly earnings": "820"
+    },
+    {
+        "Occupation": "",
+        "Number of workers": "",
+        "Median weekly earnings": "",
+        "Number of male workers": "",
+        "Male median weekly earnings": "",
+        "Number of female workers": "",
+        "Female median weekly earnings": ""
+    },
+    {
+        "Occupation": "Natural resources, construction, and maintenance occupations",
+        "Number of workers": "11,671",
+        "Median weekly earnings": "869",
+        "Number of male workers": "11,134",
+        "Male median weekly earnings": "881",
+        "Number of female workers": "537",
+        "Female median weekly earnings": "614"
+    },
+    {
+        "Occupation": "Farming, fishing, and forestry occupations",
+        "Number of workers": "900",
+        "Median weekly earnings": "574",
+        "Number of male workers": "690",
+        "Male median weekly earnings": "593",
+        "Number of female workers": "210",
+        "Female median weekly earnings": "513"
+    },
+    {
+        "Occupation": "First-line supervisors of farming, fishing, and forestry workers",
+        "Number of workers": "40",
+        "Median weekly earnings": "N/A",
+        "Number of male workers": "37",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "3",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Agricultural inspectors",
+        "Number of workers": "16",
+        "Median weekly earnings": "N/A",
+        "Number of male workers": "7",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "8",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Animal breeders",
+        "Number of workers": "2",
+        "Median weekly earnings": "N/A",
+        "Number of male workers": "1",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "1",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Graders and sorters, agricultural products",
+        "Number of workers": "78",
+        "Median weekly earnings": "564",
+        "Number of male workers": "29",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "50",
+        "Female median weekly earnings": "549"
+    },
+    {
+        "Occupation": "Miscellaneous agricultural workers",
+        "Number of workers": "691",
+        "Median weekly earnings": "558",
+        "Number of male workers": "544",
+        "Male median weekly earnings": "581",
+        "Number of female workers": "148",
+        "Female median weekly earnings": "502"
+    },
+    {
+        "Occupation": "Fishers and related fishing workers",
+        "Number of workers": "14",
+        "Median weekly earnings": "N/A",
+        "Number of male workers": "14",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "0",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Hunters and trappers",
+        "Number of workers": "0",
+        "Median weekly earnings": "N/A",
+        "Number of male workers": "0",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "0",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Forest and conservation workers",
+        "Number of workers": "14",
+        "Median weekly earnings": "N/A",
+        "Number of male workers": "13",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "1",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Logging workers",
+        "Number of workers": "44",
+        "Median weekly earnings": "N/A",
+        "Number of male workers": "44",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "0",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Construction and extraction occupations",
+        "Number of workers": "6,467",
+        "Median weekly earnings": "866",
+        "Number of male workers": "6,280",
+        "Male median weekly earnings": "873",
+        "Number of female workers": "187",
+        "Female median weekly earnings": "711"
+    },
+    {
+        "Occupation": "First-line supervisors of construction trades and extraction workers",
+        "Number of workers": "586",
+        "Median weekly earnings": "1,162",
+        "Number of male workers": "571",
+        "Male median weekly earnings": "1,167",
+        "Number of female workers": "15",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Boilermakers",
+        "Number of workers": "26",
+        "Median weekly earnings": "N/A",
+        "Number of male workers": "26",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "0",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Brickmasons, blockmasons, and stonemasons",
+        "Number of workers": "115",
+        "Median weekly earnings": "817",
+        "Number of male workers": "114",
+        "Male median weekly earnings": "819",
+        "Number of female workers": "1",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Carpenters",
+        "Number of workers": "873",
+        "Median weekly earnings": "820",
+        "Number of male workers": "855",
+        "Male median weekly earnings": "826",
+        "Number of female workers": "18",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Carpet, floor, and tile installers and finishers",
+        "Number of workers": "118",
+        "Median weekly earnings": "708",
+        "Number of male workers": "115",
+        "Male median weekly earnings": "709",
+        "Number of female workers": "3",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Cement masons, concrete finishers, and terrazzo workers",
+        "Number of workers": "60",
+        "Median weekly earnings": "975",
+        "Number of male workers": "60",
+        "Male median weekly earnings": "975",
+        "Number of female workers": "0",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Construction laborers",
+        "Number of workers": "1,434",
+        "Median weekly earnings": "723",
+        "Number of male workers": "1,393",
+        "Male median weekly earnings": "724",
+        "Number of female workers": "41",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Paving, surfacing, and tamping equipment operators",
+        "Number of workers": "20",
+        "Median weekly earnings": "N/A",
+        "Number of male workers": "20",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "0",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Pile-driver operators",
+        "Number of workers": "1",
+        "Median weekly earnings": "N/A",
+        "Number of male workers": "1",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "0",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Operating engineers and other construction equipment operators",
+        "Number of workers": "354",
+        "Median weekly earnings": "930",
+        "Number of male workers": "350",
+        "Male median weekly earnings": "927",
+        "Number of female workers": "5",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Drywall installers, ceiling tile installers, and tapers",
+        "Number of workers": "131",
+        "Median weekly earnings": "790",
+        "Number of male workers": "131",
+        "Male median weekly earnings": "790",
+        "Number of female workers": "0",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Electricians",
+        "Number of workers": "814",
+        "Median weekly earnings": "1,012",
+        "Number of male workers": "799",
+        "Male median weekly earnings": "1,015",
+        "Number of female workers": "15",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Glaziers",
+        "Number of workers": "35",
+        "Median weekly earnings": "N/A",
+        "Number of male workers": "32",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "3",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Insulation workers",
+        "Number of workers": "56",
+        "Median weekly earnings": "877",
+        "Number of male workers": "54",
+        "Male median weekly earnings": "885",
+        "Number of female workers": "2",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Painters, construction and maintenance",
+        "Number of workers": "395",
+        "Median weekly earnings": "732",
+        "Number of male workers": "364",
+        "Male median weekly earnings": "744",
+        "Number of female workers": "31",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Paperhangers",
+        "Number of workers": "4",
+        "Median weekly earnings": "N/A",
+        "Number of male workers": "4",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "0",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Pipelayers, plumbers, pipefitters, and steamfitters",
+        "Number of workers": "561",
+        "Median weekly earnings": "921",
+        "Number of male workers": "546",
+        "Male median weekly earnings": "918",
+        "Number of female workers": "15",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Plasterers and stucco masons",
+        "Number of workers": "15",
+        "Median weekly earnings": "N/A",
+        "Number of male workers": "15",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "1",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Reinforcing iron and rebar workers",
+        "Number of workers": "3",
+        "Median weekly earnings": "N/A",
+        "Number of male workers": "3",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "0",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Roofers",
+        "Number of workers": "156",
+        "Median weekly earnings": "687",
+        "Number of male workers": "154",
+        "Male median weekly earnings": "690",
+        "Number of female workers": "2",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Sheet metal workers",
+        "Number of workers": "124",
+        "Median weekly earnings": "894",
+        "Number of male workers": "117",
+        "Male median weekly earnings": "900",
+        "Number of female workers": "6",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Structural iron and steel workers",
+        "Number of workers": "71",
+        "Median weekly earnings": "1,057",
+        "Number of male workers": "71",
+        "Male median weekly earnings": "1,057",
+        "Number of female workers": "0",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Solar photovoltaic installers",
+        "Number of workers": "16",
+        "Median weekly earnings": "N/A",
+        "Number of male workers": "15",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "1",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Helpers, construction trades",
+        "Number of workers": "51",
+        "Median weekly earnings": "612",
+        "Number of male workers": "48",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "2",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Construction and building inspectors",
+        "Number of workers": "77",
+        "Median weekly earnings": "1,134",
+        "Number of male workers": "70",
+        "Male median weekly earnings": "1,134",
+        "Number of female workers": "7",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Elevator installers and repairers",
+        "Number of workers": "19",
+        "Median weekly earnings": "N/A",
+        "Number of male workers": "18",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "1",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Fence erectors",
+        "Number of workers": "26",
+        "Median weekly earnings": "N/A",
+        "Number of male workers": "26",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "0",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Hazardous materials removal workers",
+        "Number of workers": "36",
+        "Median weekly earnings": "N/A",
+        "Number of male workers": "30",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "6",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Highway maintenance workers",
+        "Number of workers": "96",
+        "Median weekly earnings": "799",
+        "Number of male workers": "91",
+        "Male median weekly earnings": "806",
+        "Number of female workers": "5",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Rail-track laying and maintenance equipment operators",
+        "Number of workers": "4",
+        "Median weekly earnings": "N/A",
+        "Number of male workers": "4",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "0",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Septic tank servicers and sewer pipe cleaners",
+        "Number of workers": "6",
+        "Median weekly earnings": "N/A",
+        "Number of male workers": "6",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "0",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Miscellaneous construction and related workers",
+        "Number of workers": "26",
+        "Median weekly earnings": "N/A",
+        "Number of male workers": "26",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "0",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Derrick, rotary drill, and service unit operators, oil, gas, and mining",
+        "Number of workers": "24",
+        "Median weekly earnings": "N/A",
+        "Number of male workers": "24",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "0",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Earth drillers, except oil and gas",
+        "Number of workers": "15",
+        "Median weekly earnings": "N/A",
+        "Number of male workers": "13",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "2",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Explosives workers, ordnance handling experts, and blasters",
+        "Number of workers": "8",
+        "Median weekly earnings": "N/A",
+        "Number of male workers": "8",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "0",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Mining machine operators",
+        "Number of workers": "51",
+        "Median weekly earnings": "1,094",
+        "Number of male workers": "50",
+        "Male median weekly earnings": "1,101",
+        "Number of female workers": "1",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Roof bolters, mining",
+        "Number of workers": "1",
+        "Median weekly earnings": "N/A",
+        "Number of male workers": "1",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "0",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Roustabouts, oil and gas",
+        "Number of workers": "7",
+        "Median weekly earnings": "N/A",
+        "Number of male workers": "7",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "0",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Helpers--extraction workers",
+        "Number of workers": "3",
+        "Median weekly earnings": "N/A",
+        "Number of male workers": "3",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "0",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Other extraction workers",
+        "Number of workers": "51",
+        "Median weekly earnings": "1,128",
+        "Number of male workers": "45",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "5",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Installation, maintenance, and repair occupations",
+        "Number of workers": "4,304",
+        "Median weekly earnings": "939",
+        "Number of male workers": "4,164",
+        "Male median weekly earnings": "943",
+        "Number of female workers": "140",
+        "Female median weekly earnings": "850"
+    },
+    {
+        "Occupation": "First-line supervisors of mechanics, installers, and repairers",
+        "Number of workers": "267",
+        "Median weekly earnings": "1,061",
+        "Number of male workers": "250",
+        "Male median weekly earnings": "1,082",
+        "Number of female workers": "17",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Computer, automated teller, and office machine repairers",
+        "Number of workers": "162",
+        "Median weekly earnings": "897",
+        "Number of male workers": "141",
+        "Male median weekly earnings": "899",
+        "Number of female workers": "21",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Radio and telecommunications equipment installers and repairers",
+        "Number of workers": "124",
+        "Median weekly earnings": "1,063",
+        "Number of male workers": "117",
+        "Male median weekly earnings": "1,058",
+        "Number of female workers": "7",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Avionics technicians",
+        "Number of workers": "16",
+        "Median weekly earnings": "N/A",
+        "Number of male workers": "15",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "1",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Electric motor, power tool, and related repairers",
+        "Number of workers": "12",
+        "Median weekly earnings": "N/A",
+        "Number of male workers": "12",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "0",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Electrical and electronics installers and repairers, transportation equipment",
+        "Number of workers": "8",
+        "Median weekly earnings": "N/A",
+        "Number of male workers": "7",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "1",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Electrical and electronics repairers, industrial and utility",
+        "Number of workers": "22",
+        "Median weekly earnings": "N/A",
+        "Number of male workers": "22",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "0",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Electronic equipment installers and repairers, motor vehicles",
+        "Number of workers": "7",
+        "Median weekly earnings": "N/A",
+        "Number of male workers": "7",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "0",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Electronic home entertainment equipment installers and repairers",
+        "Number of workers": "25",
+        "Median weekly earnings": "N/A",
+        "Number of male workers": "25",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "0",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Security and fire alarm systems installers",
+        "Number of workers": "55",
+        "Median weekly earnings": "869",
+        "Number of male workers": "54",
+        "Male median weekly earnings": "875",
+        "Number of female workers": "1",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Aircraft mechanics and service technicians",
+        "Number of workers": "155",
+        "Median weekly earnings": "1,245",
+        "Number of male workers": "148",
+        "Male median weekly earnings": "1,265",
+        "Number of female workers": "7",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Automotive body and related repairers",
+        "Number of workers": "94",
+        "Median weekly earnings": "885",
+        "Number of male workers": "94",
+        "Male median weekly earnings": "885",
+        "Number of female workers": "0",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Automotive glass installers and repairers",
+        "Number of workers": "15",
+        "Median weekly earnings": "N/A",
+        "Number of male workers": "15",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "0",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Automotive service technicians and mechanics",
+        "Number of workers": "705",
+        "Median weekly earnings": "811",
+        "Number of male workers": "693",
+        "Male median weekly earnings": "811",
+        "Number of female workers": "12",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Bus and truck mechanics and diesel engine specialists",
+        "Number of workers": "315",
+        "Median weekly earnings": "984",
+        "Number of male workers": "312",
+        "Male median weekly earnings": "983",
+        "Number of female workers": "3",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Heavy vehicle and mobile equipment service technicians and mechanics",
+        "Number of workers": "212",
+        "Median weekly earnings": "1,008",
+        "Number of male workers": "212",
+        "Male median weekly earnings": "1,008",
+        "Number of female workers": "0",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Small engine mechanics",
+        "Number of workers": "24",
+        "Median weekly earnings": "N/A",
+        "Number of male workers": "24",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "0",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Miscellaneous vehicle and mobile equipment mechanics, installers, and repairers",
+        "Number of workers": "58",
+        "Median weekly earnings": "627",
+        "Number of male workers": "58",
+        "Male median weekly earnings": "628",
+        "Number of female workers": "0",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Control and valve installers and repairers",
+        "Number of workers": "22",
+        "Median weekly earnings": "N/A",
+        "Number of male workers": "21",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "1",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Heating, air conditioning, and refrigeration mechanics and installers",
+        "Number of workers": "416",
+        "Median weekly earnings": "944",
+        "Number of male workers": "409",
+        "Male median weekly earnings": "947",
+        "Number of female workers": "6",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Home appliance repairers",
+        "Number of workers": "32",
+        "Median weekly earnings": "N/A",
+        "Number of male workers": "31",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "1",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Industrial and refractory machinery mechanics",
+        "Number of workers": "392",
+        "Median weekly earnings": "1,018",
+        "Number of male workers": "382",
+        "Male median weekly earnings": "1,028",
+        "Number of female workers": "10",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Maintenance and repair workers, general",
+        "Number of workers": "534",
+        "Median weekly earnings": "882",
+        "Number of male workers": "514",
+        "Male median weekly earnings": "883",
+        "Number of female workers": "20",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Maintenance workers, machinery",
+        "Number of workers": "21",
+        "Median weekly earnings": "N/A",
+        "Number of male workers": "21",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "0",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Millwrights",
+        "Number of workers": "51",
+        "Median weekly earnings": "1,180",
+        "Number of male workers": "48",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "3",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Electrical power-line installers and repairers",
+        "Number of workers": "123",
+        "Median weekly earnings": "1,460",
+        "Number of male workers": "123",
+        "Male median weekly earnings": "1,460",
+        "Number of female workers": "0",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Telecommunications line installers and repairers",
+        "Number of workers": "178",
+        "Median weekly earnings": "901",
+        "Number of male workers": "168",
+        "Male median weekly earnings": "884",
+        "Number of female workers": "10",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Precision instrument and equipment repairers",
+        "Number of workers": "48",
+        "Median weekly earnings": "N/A",
+        "Number of male workers": "42",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "6",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Wind turbine service technicians",
+        "Number of workers": "2",
+        "Median weekly earnings": "N/A",
+        "Number of male workers": "2",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "0",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Coin, vending, and amusement machine servicers and repairers",
+        "Number of workers": "20",
+        "Median weekly earnings": "N/A",
+        "Number of male workers": "19",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "0",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Commercial divers",
+        "Number of workers": "0",
+        "Median weekly earnings": "N/A",
+        "Number of male workers": "0",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "0",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Locksmiths and safe repairers",
+        "Number of workers": "21",
+        "Median weekly earnings": "N/A",
+        "Number of male workers": "21",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "1",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Manufactured building and mobile home installers",
+        "Number of workers": "4",
+        "Median weekly earnings": "N/A",
+        "Number of male workers": "4",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "0",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Riggers",
+        "Number of workers": "13",
+        "Median weekly earnings": "N/A",
+        "Number of male workers": "13",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "0",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Signal and track switch repairers",
+        "Number of workers": "6",
+        "Median weekly earnings": "N/A",
+        "Number of male workers": "6",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "0",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Helpers--installation, maintenance, and repair workers",
+        "Number of workers": "17",
+        "Median weekly earnings": "N/A",
+        "Number of male workers": "17",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "0",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Other installation, maintenance, and repair workers",
+        "Number of workers": "128",
+        "Median weekly earnings": "839",
+        "Number of male workers": "118",
+        "Male median weekly earnings": "850",
+        "Number of female workers": "10",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "",
+        "Number of workers": "",
+        "Median weekly earnings": "",
+        "Number of male workers": "",
+        "Male median weekly earnings": "",
+        "Number of female workers": "",
+        "Female median weekly earnings": ""
+    },
+    {
+        "Occupation": "Production, transportation, and material moving occupations",
+        "Number of workers": "15,353",
+        "Median weekly earnings": "727",
+        "Number of male workers": "12,020",
+        "Male median weekly earnings": "780",
+        "Number of female workers": "3,334",
+        "Female median weekly earnings": "593"
+    },
+    {
+        "Occupation": "Production occupations",
+        "Number of workers": "7,741",
+        "Median weekly earnings": "745",
+        "Number of male workers": "5,668",
+        "Male median weekly earnings": "814",
+        "Number of female workers": "2,073",
+        "Female median weekly earnings": "596"
+    },
+    {
+        "Occupation": "First-line supervisors of production and operating workers",
+        "Number of workers": "806",
+        "Median weekly earnings": "949",
+        "Number of male workers": "633",
+        "Male median weekly earnings": "1,031",
+        "Number of female workers": "173",
+        "Female median weekly earnings": "721"
+    },
+    {
+        "Occupation": "Aircraft structure, surfaces, rigging, and systems assemblers",
+        "Number of workers": "9",
+        "Median weekly earnings": "N/A",
+        "Number of male workers": "7",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "1",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Electrical, electronics, and electromechanical assemblers",
+        "Number of workers": "103",
+        "Median weekly earnings": "644",
+        "Number of male workers": "52",
+        "Male median weekly earnings": "712",
+        "Number of female workers": "51",
+        "Female median weekly earnings": "594"
+    },
+    {
+        "Occupation": "Engine and other machine assemblers",
+        "Number of workers": "8",
+        "Median weekly earnings": "N/A",
+        "Number of male workers": "6",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "2",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Structural metal fabricators and fitters",
+        "Number of workers": "24",
+        "Median weekly earnings": "N/A",
+        "Number of male workers": "24",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "0",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Miscellaneous assemblers and fabricators",
+        "Number of workers": "900",
+        "Median weekly earnings": "684",
+        "Number of male workers": "574",
+        "Male median weekly earnings": "724",
+        "Number of female workers": "326",
+        "Female median weekly earnings": "597"
+    },
+    {
+        "Occupation": "Bakers",
+        "Number of workers": "151",
+        "Median weekly earnings": "561",
+        "Number of male workers": "70",
+        "Male median weekly earnings": "590",
+        "Number of female workers": "81",
+        "Female median weekly earnings": "522"
+    },
+    {
+        "Occupation": "Butchers and other meat, poultry, and fish processing workers",
+        "Number of workers": "265",
+        "Median weekly earnings": "648",
+        "Number of male workers": "198",
+        "Male median weekly earnings": "671",
+        "Number of female workers": "67",
+        "Female median weekly earnings": "573"
+    },
+    {
+        "Occupation": "Food and tobacco roasting, baking, and drying machine operators and tenders",
+        "Number of workers": "13",
+        "Median weekly earnings": "N/A",
+        "Number of male workers": "6",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "7",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Food batchmakers",
+        "Number of workers": "68",
+        "Median weekly earnings": "615",
+        "Number of male workers": "26",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "42",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Food cooking machine operators and tenders",
+        "Number of workers": "2",
+        "Median weekly earnings": "N/A",
+        "Number of male workers": "0",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "2",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Food processing workers, all other",
+        "Number of workers": "144",
+        "Median weekly earnings": "658",
+        "Number of male workers": "94",
+        "Male median weekly earnings": "779",
+        "Number of female workers": "50",
+        "Female median weekly earnings": "573"
+    },
+    {
+        "Occupation": "Computer control programmers and operators",
+        "Number of workers": "103",
+        "Median weekly earnings": "849",
+        "Number of male workers": "100",
+        "Male median weekly earnings": "857",
+        "Number of female workers": "3",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Extruding and drawing machine setters, operators, and tenders, metal and plastic",
+        "Number of workers": "16",
+        "Median weekly earnings": "N/A",
+        "Number of male workers": "15",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "2",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Forging machine setters, operators, and tenders, metal and plastic",
+        "Number of workers": "9",
+        "Median weekly earnings": "N/A",
+        "Number of male workers": "8",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "1",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Rolling machine setters, operators, and tenders, metal and plastic",
+        "Number of workers": "13",
+        "Median weekly earnings": "N/A",
+        "Number of male workers": "10",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "3",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Cutting, punching, and press machine setters, operators, and tenders, metal and plastic",
+        "Number of workers": "67",
+        "Median weekly earnings": "830",
+        "Number of male workers": "58",
+        "Male median weekly earnings": "816",
+        "Number of female workers": "9",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Drilling and boring machine tool setters, operators, and tenders, metal and plastic",
+        "Number of workers": "7",
+        "Median weekly earnings": "N/A",
+        "Number of male workers": "7",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "0",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Grinding, lapping, polishing, and buffing machine tool setters, operators, and tenders, metal and plastic",
+        "Number of workers": "40",
+        "Median weekly earnings": "N/A",
+        "Number of male workers": "35",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "5",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Lathe and turning machine tool setters, operators, and tenders, metal and plastic",
+        "Number of workers": "5",
+        "Median weekly earnings": "N/A",
+        "Number of male workers": "5",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "0",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Milling and planing machine setters, operators, and tenders, metal and plastic",
+        "Number of workers": "5",
+        "Median weekly earnings": "N/A",
+        "Number of male workers": "4",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "1",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Machinists",
+        "Number of workers": "357",
+        "Median weekly earnings": "888",
+        "Number of male workers": "335",
+        "Male median weekly earnings": "889",
+        "Number of female workers": "22",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Metal furnace operators, tenders, pourers, and casters",
+        "Number of workers": "26",
+        "Median weekly earnings": "N/A",
+        "Number of male workers": "25",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "1",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Model makers and patternmakers, metal and plastic",
+        "Number of workers": "4",
+        "Median weekly earnings": "N/A",
+        "Number of male workers": "3",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "1",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Molders and molding machine setters, operators, and tenders, metal and plastic",
+        "Number of workers": "37",
+        "Median weekly earnings": "N/A",
+        "Number of male workers": "32",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "4",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Multiple machine tool setters, operators, and tenders, metal and plastic",
+        "Number of workers": "2",
+        "Median weekly earnings": "N/A",
+        "Number of male workers": "2",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "0",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Tool and die makers",
+        "Number of workers": "53",
+        "Median weekly earnings": "952",
+        "Number of male workers": "51",
+        "Male median weekly earnings": "972",
+        "Number of female workers": "2",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Welding, soldering, and brazing workers",
+        "Number of workers": "549",
+        "Median weekly earnings": "801",
+        "Number of male workers": "518",
+        "Male median weekly earnings": "810",
+        "Number of female workers": "31",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Heat treating equipment setters, operators, and tenders, metal and plastic",
+        "Number of workers": "4",
+        "Median weekly earnings": "N/A",
+        "Number of male workers": "4",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "0",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Layout workers, metal and plastic",
+        "Number of workers": "8",
+        "Median weekly earnings": "N/A",
+        "Number of male workers": "8",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "0",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Plating and coating machine setters, operators, and tenders, metal and plastic",
+        "Number of workers": "12",
+        "Median weekly earnings": "N/A",
+        "Number of male workers": "11",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "1",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Tool grinders, filers, and sharpeners",
+        "Number of workers": "1",
+        "Median weekly earnings": "N/A",
+        "Number of male workers": "1",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "0",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Metal workers and plastic workers, all other",
+        "Number of workers": "385",
+        "Median weekly earnings": "736",
+        "Number of male workers": "312",
+        "Male median weekly earnings": "795",
+        "Number of female workers": "74",
+        "Female median weekly earnings": "592"
+    },
+    {
+        "Occupation": "Prepress technicians and workers",
+        "Number of workers": "27",
+        "Median weekly earnings": "N/A",
+        "Number of male workers": "17",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "10",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Printing press operators",
+        "Number of workers": "109",
+        "Median weekly earnings": "814",
+        "Number of male workers": "87",
+        "Male median weekly earnings": "886",
+        "Number of female workers": "22",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Print binding and finishing workers",
+        "Number of workers": "15",
+        "Median weekly earnings": "N/A",
+        "Number of male workers": "12",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "3",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Laundry and dry-cleaning workers",
+        "Number of workers": "112",
+        "Median weekly earnings": "490",
+        "Number of male workers": "37",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "74",
+        "Female median weekly earnings": "482"
+    },
+    {
+        "Occupation": "Pressers, textile, garment, and related materials",
+        "Number of workers": "19",
+        "Median weekly earnings": "N/A",
+        "Number of male workers": "6",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "14",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Sewing machine operators",
+        "Number of workers": "138",
+        "Median weekly earnings": "524",
+        "Number of male workers": "40",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "98",
+        "Female median weekly earnings": "521"
+    },
+    {
+        "Occupation": "Shoe and leather workers and repairers",
+        "Number of workers": "6",
+        "Median weekly earnings": "N/A",
+        "Number of male workers": "5",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "1",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Shoe machine operators and tenders",
+        "Number of workers": "4",
+        "Median weekly earnings": "N/A",
+        "Number of male workers": "1",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "3",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Tailors, dressmakers, and sewers",
+        "Number of workers": "55",
+        "Median weekly earnings": "576",
+        "Number of male workers": "19",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "36",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Textile bleaching and dyeing machine operators and tenders",
+        "Number of workers": "0",
+        "Median weekly earnings": "N/A",
+        "Number of male workers": "0",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "0",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Textile cutting machine setters, operators, and tenders",
+        "Number of workers": "3",
+        "Median weekly earnings": "N/A",
+        "Number of male workers": "3",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "0",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Textile knitting and weaving machine setters, operators, and tenders",
+        "Number of workers": "6",
+        "Median weekly earnings": "N/A",
+        "Number of male workers": "1",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "4",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Textile winding, twisting, and drawing out machine setters, operators, and tenders",
+        "Number of workers": "12",
+        "Median weekly earnings": "N/A",
+        "Number of male workers": "4",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "7",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Extruding and forming machine setters, operators, and tenders, synthetic and glass fibers",
+        "Number of workers": "0",
+        "Median weekly earnings": "N/A",
+        "Number of male workers": "0",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "0",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Fabric and apparel patternmakers",
+        "Number of workers": "1",
+        "Median weekly earnings": "N/A",
+        "Number of male workers": "0",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "1",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Upholsterers",
+        "Number of workers": "21",
+        "Median weekly earnings": "N/A",
+        "Number of male workers": "18",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "3",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Textile, apparel, and furnishings workers, all other",
+        "Number of workers": "10",
+        "Median weekly earnings": "N/A",
+        "Number of male workers": "7",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "3",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Cabinetmakers and bench carpenters",
+        "Number of workers": "44",
+        "Median weekly earnings": "N/A",
+        "Number of male workers": "41",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "3",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Furniture finishers",
+        "Number of workers": "14",
+        "Median weekly earnings": "N/A",
+        "Number of male workers": "7",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "7",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Model makers and patternmakers, wood",
+        "Number of workers": "0",
+        "Median weekly earnings": "N/A",
+        "Number of male workers": "0",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "0",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Sawing machine setters, operators, and tenders, wood",
+        "Number of workers": "28",
+        "Median weekly earnings": "N/A",
+        "Number of male workers": "24",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "4",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Woodworking machine setters, operators, and tenders, except sawing",
+        "Number of workers": "14",
+        "Median weekly earnings": "N/A",
+        "Number of male workers": "11",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "3",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Woodworkers, all other",
+        "Number of workers": "10",
+        "Median weekly earnings": "N/A",
+        "Number of male workers": "10",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "0",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Power plant operators, distributors, and dispatchers",
+        "Number of workers": "38",
+        "Median weekly earnings": "N/A",
+        "Number of male workers": "36",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "2",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Stationary engineers and boiler operators",
+        "Number of workers": "51",
+        "Median weekly earnings": "869",
+        "Number of male workers": "50",
+        "Male median weekly earnings": "862",
+        "Number of female workers": "2",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Water and wastewater treatment plant and system operators",
+        "Number of workers": "105",
+        "Median weekly earnings": "931",
+        "Number of male workers": "97",
+        "Male median weekly earnings": "930",
+        "Number of female workers": "8",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Miscellaneous plant and system operators",
+        "Number of workers": "46",
+        "Median weekly earnings": "N/A",
+        "Number of male workers": "44",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "1",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Chemical processing machine setters, operators, and tenders",
+        "Number of workers": "75",
+        "Median weekly earnings": "999",
+        "Number of male workers": "67",
+        "Male median weekly earnings": "1,017",
+        "Number of female workers": "8",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Crushing, grinding, polishing, mixing, and blending workers",
+        "Number of workers": "79",
+        "Median weekly earnings": "764",
+        "Number of male workers": "74",
+        "Male median weekly earnings": "772",
+        "Number of female workers": "5",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Cutting workers",
+        "Number of workers": "50",
+        "Median weekly earnings": "762",
+        "Number of male workers": "42",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "8",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Extruding, forming, pressing, and compacting machine setters, operators, and tenders",
+        "Number of workers": "29",
+        "Median weekly earnings": "N/A",
+        "Number of male workers": "26",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "3",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Furnace, kiln, oven, drier, and kettle operators and tenders",
+        "Number of workers": "17",
+        "Median weekly earnings": "N/A",
+        "Number of male workers": "16",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "2",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Inspectors, testers, sorters, samplers, and weighers",
+        "Number of workers": "722",
+        "Median weekly earnings": "835",
+        "Number of male workers": "463",
+        "Male median weekly earnings": "939",
+        "Number of female workers": "259",
+        "Female median weekly earnings": "693"
+    },
+    {
+        "Occupation": "Jewelers and precious stone and metal workers",
+        "Number of workers": "24",
+        "Median weekly earnings": "N/A",
+        "Number of male workers": "14",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "11",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Medical, dental, and ophthalmic laboratory technicians",
+        "Number of workers": "79",
+        "Median weekly earnings": "779",
+        "Number of male workers": "35",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "44",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Packaging and filling machine operators and tenders",
+        "Number of workers": "244",
+        "Median weekly earnings": "575",
+        "Number of male workers": "116",
+        "Male median weekly earnings": "646",
+        "Number of female workers": "128",
+        "Female median weekly earnings": "533"
+    },
+    {
+        "Occupation": "Painting workers",
+        "Number of workers": "160",
+        "Median weekly earnings": "780",
+        "Number of male workers": "144",
+        "Male median weekly earnings": "804",
+        "Number of female workers": "15",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Photographic process workers and processing machine operators",
+        "Number of workers": "9",
+        "Median weekly earnings": "N/A",
+        "Number of male workers": "2",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "7",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Semiconductor processors",
+        "Number of workers": "1",
+        "Median weekly earnings": "N/A",
+        "Number of male workers": "1",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "0",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Adhesive bonding machine operators and tenders",
+        "Number of workers": "12",
+        "Median weekly earnings": "N/A",
+        "Number of male workers": "10",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "2",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Cleaning, washing, and metal pickling equipment operators and tenders",
+        "Number of workers": "1",
+        "Median weekly earnings": "N/A",
+        "Number of male workers": "0",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "1",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Cooling and freezing equipment operators and tenders",
+        "Number of workers": "3",
+        "Median weekly earnings": "N/A",
+        "Number of male workers": "3",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "0",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Etchers and engravers",
+        "Number of workers": "6",
+        "Median weekly earnings": "N/A",
+        "Number of male workers": "4",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "2",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Molders, shapers, and casters, except metal and plastic",
+        "Number of workers": "28",
+        "Median weekly earnings": "N/A",
+        "Number of male workers": "22",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "6",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Paper goods machine setters, operators, and tenders",
+        "Number of workers": "20",
+        "Median weekly earnings": "N/A",
+        "Number of male workers": "19",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "2",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Tire builders",
+        "Number of workers": "12",
+        "Median weekly earnings": "N/A",
+        "Number of male workers": "12",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "0",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Helpers--production workers",
+        "Number of workers": "29",
+        "Median weekly earnings": "N/A",
+        "Number of male workers": "25",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "4",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Production workers, all other",
+        "Number of workers": "1,056",
+        "Median weekly earnings": "704",
+        "Number of male workers": "763",
+        "Male median weekly earnings": "767",
+        "Number of female workers": "293",
+        "Female median weekly earnings": "566"
+    },
+    {
+        "Occupation": "Transportation and material moving occupations",
+        "Number of workers": "7,612",
+        "Median weekly earnings": "711",
+        "Number of male workers": "6,352",
+        "Male median weekly earnings": "747",
+        "Number of female workers": "1,260",
+        "Female median weekly earnings": "586"
+    },
+    {
+        "Occupation": "Supervisors of transportation and material moving workers",
+        "Number of workers": "184",
+        "Median weekly earnings": "923",
+        "Number of male workers": "156",
+        "Male median weekly earnings": "978",
+        "Number of female workers": "28",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Aircraft pilots and flight engineers",
+        "Number of workers": "118",
+        "Median weekly earnings": "1,857",
+        "Number of male workers": "109",
+        "Male median weekly earnings": "1,670",
+        "Number of female workers": "9",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Air traffic controllers and airfield operations specialists",
+        "Number of workers": "40",
+        "Median weekly earnings": "N/A",
+        "Number of male workers": "34",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "6",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Flight attendants",
+        "Number of workers": "70",
+        "Median weekly earnings": "823",
+        "Number of male workers": "13",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "57",
+        "Female median weekly earnings": "835"
+    },
+    {
+        "Occupation": "Ambulance drivers and attendants, except emergency medical technicians",
+        "Number of workers": "12",
+        "Median weekly earnings": "N/A",
+        "Number of male workers": "6",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "6",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Bus drivers",
+        "Number of workers": "364",
+        "Median weekly earnings": "674",
+        "Number of male workers": "205",
+        "Male median weekly earnings": "718",
+        "Number of female workers": "159",
+        "Female median weekly earnings": "625"
+    },
+    {
+        "Occupation": "Driver/sales workers and truck drivers",
+        "Number of workers": "2,723",
+        "Median weekly earnings": "843",
+        "Number of male workers": "2,564",
+        "Male median weekly earnings": "861",
+        "Number of female workers": "159",
+        "Female median weekly earnings": "660"
+    },
+    {
+        "Occupation": "Taxi drivers and chauffeurs",
+        "Number of workers": "406",
+        "Median weekly earnings": "614",
+        "Number of male workers": "356",
+        "Male median weekly earnings": "624",
+        "Number of female workers": "50",
+        "Female median weekly earnings": "520"
+    },
+    {
+        "Occupation": "Motor vehicle operators, all other",
+        "Number of workers": "34",
+        "Median weekly earnings": "N/A",
+        "Number of male workers": "29",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "5",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Locomotive engineers and operators",
+        "Number of workers": "39",
+        "Median weekly earnings": "N/A",
+        "Number of male workers": "37",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "2",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Railroad brake, signal, and switch operators",
+        "Number of workers": "3",
+        "Median weekly earnings": "N/A",
+        "Number of male workers": "2",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "1",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Railroad conductors and yardmasters",
+        "Number of workers": "59",
+        "Median weekly earnings": "1,160",
+        "Number of male workers": "57",
+        "Male median weekly earnings": "1,170",
+        "Number of female workers": "2",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Subway, streetcar, and other rail transportation workers",
+        "Number of workers": "10",
+        "Median weekly earnings": "N/A",
+        "Number of male workers": "8",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "2",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Sailors and marine oilers",
+        "Number of workers": "20",
+        "Median weekly earnings": "N/A",
+        "Number of male workers": "19",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "1",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Ship and boat captains and operators",
+        "Number of workers": "33",
+        "Median weekly earnings": "N/A",
+        "Number of male workers": "29",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "3",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Ship engineers",
+        "Number of workers": "6",
+        "Median weekly earnings": "N/A",
+        "Number of male workers": "6",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "0",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Bridge and lock tenders",
+        "Number of workers": "0",
+        "Median weekly earnings": "N/A",
+        "Number of male workers": "0",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "0",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Parking lot attendants",
+        "Number of workers": "58",
+        "Median weekly earnings": "561",
+        "Number of male workers": "50",
+        "Male median weekly earnings": "581",
+        "Number of female workers": "8",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Automotive and watercraft service attendants",
+        "Number of workers": "67",
+        "Median weekly earnings": "518",
+        "Number of male workers": "59",
+        "Male median weekly earnings": "520",
+        "Number of female workers": "8",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Transportation inspectors",
+        "Number of workers": "42",
+        "Median weekly earnings": "N/A",
+        "Number of male workers": "37",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "5",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Transportation attendants, except flight attendants",
+        "Number of workers": "22",
+        "Median weekly earnings": "N/A",
+        "Number of male workers": "10",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "12",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Other transportation workers",
+        "Number of workers": "31",
+        "Median weekly earnings": "N/A",
+        "Number of male workers": "27",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "4",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Conveyor operators and tenders",
+        "Number of workers": "1",
+        "Median weekly earnings": "N/A",
+        "Number of male workers": "0",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "1",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Crane and tower operators",
+        "Number of workers": "63",
+        "Median weekly earnings": "1,070",
+        "Number of male workers": "59",
+        "Male median weekly earnings": "1,104",
+        "Number of female workers": "4",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Dredge, excavating, and loading machine operators",
+        "Number of workers": "19",
+        "Median weekly earnings": "N/A",
+        "Number of male workers": "19",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "0",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Hoist and winch operators",
+        "Number of workers": "9",
+        "Median weekly earnings": "N/A",
+        "Number of male workers": "9",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "0",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Industrial truck and tractor operators",
+        "Number of workers": "541",
+        "Median weekly earnings": "677",
+        "Number of male workers": "489",
+        "Male median weekly earnings": "686",
+        "Number of female workers": "52",
+        "Female median weekly earnings": "625"
+    },
+    {
+        "Occupation": "Cleaners of vehicles and equipment",
+        "Number of workers": "254",
+        "Median weekly earnings": "587",
+        "Number of male workers": "225",
+        "Male median weekly earnings": "595",
+        "Number of female workers": "29",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Laborers and freight, stock, and material movers, hand",
+        "Number of workers": "1,764",
+        "Median weekly earnings": "634",
+        "Number of male workers": "1,402",
+        "Male median weekly earnings": "657",
+        "Number of female workers": "362",
+        "Female median weekly earnings": "567"
+    },
+    {
+        "Occupation": "Machine feeders and offbearers",
+        "Number of workers": "21",
+        "Median weekly earnings": "N/A",
+        "Number of male workers": "10",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "11",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Packers and packagers, hand",
+        "Number of workers": "467",
+        "Median weekly earnings": "530",
+        "Number of male workers": "202",
+        "Male median weekly earnings": "576",
+        "Number of female workers": "265",
+        "Female median weekly earnings": "515"
+    },
+    {
+        "Occupation": "Pumping station operators",
+        "Number of workers": "11",
+        "Median weekly earnings": "N/A",
+        "Number of male workers": "11",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "0",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Refuse and recyclable material collectors",
+        "Number of workers": "78",
+        "Median weekly earnings": "686",
+        "Number of male workers": "72",
+        "Male median weekly earnings": "683",
+        "Number of female workers": "5",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Mine shuttle car operators",
+        "Number of workers": "2",
+        "Median weekly earnings": "N/A",
+        "Number of male workers": "1",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "1",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Tank car, truck, and ship loaders",
+        "Number of workers": "5",
+        "Median weekly earnings": "N/A",
+        "Number of male workers": "5",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "0",
+        "Female median weekly earnings": "N/A"
+    },
+    {
+        "Occupation": "Material moving workers, all other",
+        "Number of workers": "39",
+        "Median weekly earnings": "N/A",
+        "Number of male workers": "35",
+        "Male median weekly earnings": "N/A",
+        "Number of female workers": "3",
+        "Female median weekly earnings": "N/A"
+    }
+]
